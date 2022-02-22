@@ -74,15 +74,33 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](url).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
-* **[O que Gil do Vigor tem para nos ensinar](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** O Globo, 21 may 2021. 
-* **[Falta de bom Censo](https://oglobo.globo.com/economia/falta-de-bom-censo-25008688)** O Globo, 08 may 2021. 
+* **[Brasil não é mais um país de imigrantes.](https://oglobo.globo.com/economia/brasil-nao-mais-um-pais-de-imigrantes-25391280)** O Globo, 12 feb 2022. 
+* **[A loteria do nascimento determina o tamanho de nossos sonhos.](https://oglobo.globo.com/economia/a-loteria-do-nascimento-determina-tamanho-de-nossos-sonhos-25372215)** O Globo, 29 jan 2022. 
+* **[A importância do autoteste de Covid.](https://oglobo.globo.com/economia/a-importancia-do-autoteste-de-covid-25355275)** O Globo, 15 jan 2022. 
+* **[A recessão das mulheres.](https://oglobo.globo.com/economia/a-recessao-das-mulheres-25324496)** O Globo, 18 dec 2021. 
+* **[Ciência e política pública.](https://oglobo.globo.com/economia/ciencia-politica-publica-1-25305681)** O Globo, 04 dec 2021. 
+* **[Instituições (sanitárias) importam.](https://oglobo.globo.com/economia/instituicoes-sanitarias-importam-25284274)** O Globo, 20 nov 2021. 
+* **[Bolsa Família é o Brasil que deu certo.](https://oglobo.globo.com/economia/bolsa-familia-o-brasil-que-deu-certo-1-25265926)** O Globo, 06 nov 2021. 
+* **[Um obituário do teto de gastos.](https://oglobo.globo.com/economia/um-obituario-do-teto-de-gastos-25248498)** O Globo, 23 oct 2021. 
+* **[Conflitos de interesse.](https://oglobo.globo.com/economia/conflitos-de-interesse-25230688)** O Globo, 09 oct 2021. 
+* **[Do entusiasmo com a equipe econômica à decepção.](https://oglobo.globo.com/economia/do-entusiasmo-com-equipe-economica-decepcao-25212666)** O Globo, 25 sep 2021. 
+* **[O custo Bolsonaro: entenda o efeito das atitudes do presidente na economia.](https://oglobo.globo.com/economia/o-custo-bolsonaro-entenda-efeito-das-atitudes-do-presidente-na-economia-25192962)** O Globo, 11 sep 2021. 
+* **[O projeto de Bolsonaro é um projeto de família.](https://oglobo.globo.com/economia/o-projeto-de-bolsonaro-um-projeto-de-familia-25174345)** O Globo, 28 aug 2021. 
+* **[A relevância da ciência social.](https://oglobo.globo.com/economia/a-relevancia-da-ciencia-social-1-25154594)** O Globo, 14 aug 2021. 
+* **[Olimpíada e Copa no Brasil valeram a pena?](https://oglobo.globo.com/economia/olimpiada-copa-no-brasil-valeram-pena-25134455)** O Globo, 31 jul 2021. 
+* **[Embargo brasileiro.](https://oglobo.globo.com/economia/embargo-brasileiro-25114232)** O Globo, 17 jul 2021. 
+* **[Lucros e dividendos.](https://oglobo.globo.com/economia/lucros-dividendos-1-25088443)** O Globo, 03 jul 2021. 
+* **[Reformas e nossa circunstância.](https://oglobo.globo.com/economia/reformas-nossa-circunstancia-25068595)** O Globo, 19 jun 2021. 
+* **[Vacina como investimento.](https://oglobo.globo.com/economia/vacina-como-investimento-25048326)** O Globo, 05 jun 2021. 
+* **[O que Gil do Vigor tem para nos ensinar.](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** O Globo, 21 may 2021. 
+* **[Falta de bom Censo.](https://oglobo.globo.com/economia/falta-de-bom-censo-25008688)** O Globo, 08 may 2021. 
 * **[Recuperação para quem?](https://oglobo.globo.com/economia/recuperacao-para-quem-1-24985795)** O Globo, 24 apr 2021. 
 * **[O PIB e o povo.](https://oglobo.globo.com/economia/o-pib-o-povo-24964338)** O Globo, 14 apr 2021. 
 * **[Meu herói economista.](https://oglobo.globo.com/economia/meu-heroi-economista-24943718)** O Globo, 27 mar 2021. 
 * **[Rejeitar ‘lockdown’ não vai reacender a economia.](https://oglobo.globo.com/economia/rejeitar-lockdown-nao-vai-reacender-economia-24923392)** O Globo, 13 mar 2021. 
 * **[A nova economia do salário mínimo.](https://oglobo.globo.com/economia/a-nova-economia-do-salario-minimo-24901841)** O Globo, 27 feb 2021. 
 * **[Os pobres são estratégicos.](https://oglobo.globo.com/economia/os-pobres-sao-estrategicos-24880790)** O Globo, 13 feb 2021. 
-* **[Como salvar empregos para o Brasil pós-coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)** (with Ricardo Dahis). Folha de São Paulo, 29 mar 2020. 
+* **[Como salvar empregos para o Brasil pós-coronavírus.](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)** (with Ricardo Dahis). Folha de São Paulo, 29 mar 2020. 
 * **[O que economistas (não) sabem sobre o efeito dos gastos públicos.](https://www1.folha.uol.com.br/mercado/2019/10/o-que-economistas-nao-sabem-sobre-o-efeito-dos-gastos-publicos.shtml)** Folha de São Paulo, 29 out 2019. 
 * **[Quem paga os custos da Reforma da Previdência?](https://www1.folha.uol.com.br/opiniao/2019/07/quem-paga-os-custos-da-reforma-da-previdencia.shtml)** Folha de São Paulo, 24 jul 2019. 
 * **[Por que Bolsonaro está errado sobre o Bolsa Família](https://exame.com/economia/por-que-bolsonaro-esta-errado-sobre-o-bolsa-familia/).** Exame, 9 apr 2019. 
@@ -93,8 +111,8 @@ author_profile: true
 * **O que vai acontecer se Trump for Trump.** Veja, fev 2017, ed. 2504, p. 76/77
 * **[Fraude fiscal é mais grave que corrupção](https://veja.abril.com.br/coluna/cacador-de-mitos/carlos-goes-8220-fraude-fiscal-e-mais-grave-que-corrupcao-8221/).** Veja.com, 9 fev 2017. 
 * **[Obstáculo para Trump, população mais diversa demanda reforma republicana](http://temas.folha.uol.com.br/america-partida/demografia-e-eleicoes/obstaculo-para-trump-populacao-mais-diversa-demanda-reforma-republicana.shtml).** Folha de São Paulo, 04 nov 2016.  
-* **[A imprensa estrangeira está denunciando um golpe no Brasil?](https://www1.folha.uol.com.br/opiniao/2016/05/1767493-a-imprensa-estrangeira-esta-denunciando-um-golpe-no-brasil.shtml)** Folha de São Paulo, 04 may 2016. link
-* **[Radiografia dos salários do funcionalismo público](https://valor.globo.com/opiniao/coluna/radiografia-dos-salarios-do-funcionalismo-publico.ghtml).** Valor Econômico, 07 aug 2012. link
+* **[A imprensa estrangeira está denunciando um golpe no Brasil?](https://www1.folha.uol.com.br/opiniao/2016/05/1767493-a-imprensa-estrangeira-esta-denunciando-um-golpe-no-brasil.shtml)** Folha de São Paulo, 04 may 2016. 
+* **[Radiografia dos salários do funcionalismo público](https://valor.globo.com/opiniao/coluna/radiografia-dos-salarios-do-funcionalismo-publico.ghtml).** Valor Econômico, 07 aug 2012. 
 
 ## Spanish
-* **[La desigualdad global ha estado cayendo y los pobres nunca han sido más ricos](https://www.elcato.org/olvidese-de-los-titulares-la-desigualdad-global-ha-estado-cayendo-y-los-pobres-nunca-han-sido-mas)**. El Cato, 12 feb 2015. link
+* **[La desigualdad global ha estado cayendo y los pobres nunca han sido más ricos](https://www.elcato.org/olvidese-de-los-titulares-la-desigualdad-global-ha-estado-cayendo-y-los-pobres-nunca-han-sido-mas)**. El Cato, 12 feb 2015. 
