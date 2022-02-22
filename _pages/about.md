@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carlos Góes"
+title: "Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
