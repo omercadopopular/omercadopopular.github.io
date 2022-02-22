@@ -5,6 +5,10 @@ permalink: /media/
 author_profile: true
 ---
 
+1. [Research references in the media](#Research references in the media)
+2. [Interviews](#Interviews) 
+3. [Op-eds](#Op-eds)
+
 # Research references in the media
 
 ## Academic Papers
@@ -61,3 +65,5 @@ author_profile: true
 * [**Radio CBN**](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html) regarding trends in global and domestic income inequality, 21 nov 2016. link
 * [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. link
 * [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1), 24 aug 2016.
+
+# Op-eds 
