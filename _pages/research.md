@@ -16,11 +16,11 @@ author_profile: true
 - **[Determinants of Infrastructure and its Financing](https://journals.sagepub.com/doi/pdf/10.1177/2394901517730739)** (with V. Cerra, A. Cuevas, I. Karpowicz, T. Matheson, I. Samake & S. Vtyurina). _Emerging Market Studies. v. 3-1, p. 1-22, 2017._
   - (Growth, Infrastructure) This paper provides a comprehensive overview of infrastructure in Latin America and highlights key areas in which infrastructure networks can be enhanced. 
 
-- **[Institutions and growth: A GMM/IV Panel VAR approach](https://doi.org/10.1016/j.econlet.2015.11.024)** _Economics Letters. v. 138, p. 85-91, 2016._
-  - (Growth, Institutions, Dynamic Panels) In this paper, I build a panel structural vector autoregression (SVAR) model for a short panel of 119 countries over 10 years and find support for the institutions hypothesis. Controlling for individual fixed effects, I find that exogenous shocks to a proxy for institutional quality have a positive and statistically significant effect on GDP per capita. On average, a 1% shock in institutional quality leads to a peak 1.7% increase in GDP per capita after six years.
+- **[Institutions and growth: A GMM/IV Panel VAR approach](https://doi.org/10.1016/j.econlet.2015.11.024)**. _Economics Letters. v. 138, p. 85-91, 2016._
+  - (Growth, Institutions, Dynamic Panels Econometrics) In this paper, I build a panel structural vector autoregression (SVAR) model for a short panel of 119 countries over 10 years and find support for the institutions hypothesis. Controlling for individual fixed effects, I find that exogenous shocks to a proxy for institutional quality have a positive and statistically significant effect on GDP per capita. On average, a 1% shock in institutional quality leads to a peak 1.7% increase in GDP per capita after six years.
 
-- **[Domestic market integration and the law of one price in Brazil](https://doi.org/10.1080/13504851.2016.1184220)** (with Troy Matheson) _Applied Economics Letters, 24:5, 284-288._
-  - (Spatial Data, Trade, Dynamic Panels) This article presents the first assessment of domestic market integration in Brazil using the law of one price. The law of one price is tested using two panel unit root methodologies and a unique data set comprising price indices for 51 products across 11 metro-areas.
+- **[Domestic market integration and the law of one price in Brazil](https://doi.org/10.1080/13504851.2016.1184220)** (with Troy Matheson). _Applied Economics Letters, 24:5, 284-288._
+  - (Spatial Data, Trade, Dynamic Panels Econometrics) This article presents the first assessment of domestic market integration in Brazil using the law of one price. The law of one price is tested using two panel unit root methodologies and a unique data set comprising price indices for 51 products across 11 metro-areas.
 
 
 # Book chapters
