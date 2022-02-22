@@ -7,7 +7,7 @@ author_profile: true
 
 # Refereed research articles
 
-- **[Pairwise difference regressions are just weighted averages](https://doi.org/10.1038/s41598-021-02096-3)**. Nature's Scientific Reports 11, 23044 (2021). 
+- **[Pairwise difference regressions are just weighted averages](https://doi.org/10.1038/s41598-021-02096-3)**. _Nature's Scientific Reports 11, 23044 (2021)._ 
   - (Econometrics, Covid-19) This paper is a commentary showing that one paper published in Nature's Scientific Reports claiming no association between stay-at-home policies and Covid-19 deaths had made serious mathematical mistakes in their regression models, which rendered their conclusion invalid. This commentary led to the retraction of the original paper.
 
 - **[Filling the Gap: Infrastructure Investment in Brazil](https://systems.enpress-publisher.com/index.php/jipd/article/download/828/803)** (with M. Garcia-Escribano, and I. Karpowicz). _Journal of Infrastructure, Policy and Development. Vol 2 Issue 2, 2018._
