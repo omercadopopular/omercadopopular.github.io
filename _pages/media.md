@@ -13,6 +13,11 @@ author_profile: true
 # Research references in the media
 ## Academic Papers
 
+* **Pairwise difference regressions are just weighted averages**. _Nature's Scientific Reports. 11-23044, 2021._
+	*  [**Featured** on Folha de São Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2021/12/artigo-que-afirmava-que-lockdown-nao-evita-morte-por-covid-e-despublicado.shtml), 18 dec 2021.
+	*  [**Featured** on Medscape](https://www.medscape.com/viewarticle/964926?src=), 16 dec 2021.
+	*  [**Featured** on Retraction Watch](https://retractionwatch.com/2021/12/13/paper-claiming-a-lack-of-evidence-covid-19-lockdowns-work-is-retracted/), 13 dec 2021.
+
 * **Income Inequality in Brazil: a Closer Look at the Evolution in States**. (with I. Karpowicz) In: _Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery}. Washington: IMF, 2018, pp. 127-37._
   	*  [**Interviewed** by Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml), 02 dec 2017.
 	* [**Featured** on Gazeta do Povo](http://www.gazetadopovo.com.br/politica/republica/altos-salarios-dos-servidores-impedem-queda-maior-da-desigualdade-no-pais-bsi2bvxcfxix6on7lwgm4oue3), 29 dec 2017
