@@ -46,6 +46,13 @@ Honors and Awards
 * 2011
   *  Undergraduate Academic Excellence Award from the Chancellor as the Best Student of the Class of 2010 (University of Brasília).
 
+Languages
+======
+* Human
+  *  Portuguese (native), English (fluent), Spanish (fluent), French (intermediate low), Italian (intermediate low).
+* Machine
+  *  Python (fluent), STATA (fluent), Julia (advanced), Eviews (advanced), Matlab (intermediate high), R/tidy (intermediate). 
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
