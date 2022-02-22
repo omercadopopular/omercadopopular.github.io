@@ -5,11 +5,11 @@ permalink: /media/
 author_profile: true
 ---
 
-1. [Research references in the media](#Research)
-2. [Interviews](#Interviews) 
-3. [Op-eds](#Op-eds)
+1. [Research references in the media](##research-references-in-the-media)
+2. [Interviews](#interviews) 
+3. [Op-eds](#op-eds)
 
-#Research
+
 # Research references in the media
 
 ## Academic Papers
@@ -51,7 +51,6 @@ author_profile: true
 	* [**Interviewed** by Radio Jovem Pan](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be). 4 oct 2016.
 	* [**Featured** on Yahoo! News](https://br.noticias.yahoo.com/partidos-fisiol%C3%B3gicos-comandam-49-dos-munic%C3%ADpios-144058157.html). 14 oct 2016.
 
-#Interviews 
 # Interviews 
 
 ## English
@@ -68,5 +67,4 @@ author_profile: true
 * [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. link
 * [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1), 24 aug 2016.
 
-#Op-eds 
 # Op-eds 
