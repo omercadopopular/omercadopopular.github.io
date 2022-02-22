@@ -25,7 +25,7 @@ author_profile: true
 * **Testing Piketty’s Hypothesis on the Drivers of Income Inequality: Evidence from Panel VARs with Heterogeneous Dynamics**. _IMF Working Papers, v. 16, p. 1, 2016._
 	* [**Featured** on CNBC](http://www.cnbc.com/2016/08/06/imf-economist-pikettys-inequality-claims-have-no-formal-empirical-testing.html), 02 dec 2017.
 	* [**Featured** on El País](https://economia.elpais.com/economia/2016/08/24/actualidad/1472064789_141473.html), 26 aug 2016.
-  	*  [**Interviewed** by Radio France International](http://www.valor.com.br/brasil/5185755/distancia-entre-ricos-e-pobres-no-df-e-18-maior-que-media-do-pais-mostra-estudo), 24 aug 2016.
+	* [**Interviewed** by Radio France International](http://www.valor.com.br/brasil/5185755/distancia-entre-ricos-e-pobres-no-df-e-18-maior-que-media-do-pais-mostra-estudo), 24 aug 2016.
 	* [**Featured** on Exame](http://exame.abril.com.br/economia/tese-de-piketty-e-desmentida-por-estudo-de-brasileiro-no-fmi/), 15 aug 2016.
 	* [**Featured** on Le Monde](http://www.lemonde.fr/economie/article/2016/08/11/une-etude-du-fmi-conteste-les-theories-de-thomas-piketty-sur-les-inegalites_4981137_3234.html), 11 aug 2016.
 	* [**Featured** on Suddeustche Zeitung](http://www.sueddeutsche.de/wirtschaft/wirbel-um-these-von-piketty-ist-die-kapitalismus-formel-widerlegt-1.3113671), 9 aug 2016.
@@ -74,7 +74,16 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](url).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
-* **[O que economistas (não) sabem sobre o efeito dos gastos públicos](https://www1.folha.uol.com.br/mercado/2019/10/o-que-economistas-nao-sabem-sobre-o-efeito-dos-gastos-publicos.shtml)** Folha de São Paulo, 29 out 2019. 
+* **[O que Gil do Vigor tem para nos ensinar](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** O Globo, 21 may 2021. 
+* **[Falta de bom Censo](https://oglobo.globo.com/economia/falta-de-bom-censo-25008688)** O Globo, 08 may 2021. 
+* **[Recuperação para quem?](https://oglobo.globo.com/economia/recuperacao-para-quem-1-24985795)** O Globo, 24 apr 2021. 
+* **[O PIB e o povo.](https://oglobo.globo.com/economia/o-pib-o-povo-24964338)** O Globo, 14 apr 2021. 
+* **[Meu herói economista.](https://oglobo.globo.com/economia/meu-heroi-economista-24943718)** O Globo, 27 mar 2021. 
+* **[Rejeitar ‘lockdown’ não vai reacender a economia.](https://oglobo.globo.com/economia/rejeitar-lockdown-nao-vai-reacender-economia-24923392)** O Globo, 13 mar 2021. 
+* **[A nova economia do salário mínimo.](https://oglobo.globo.com/economia/a-nova-economia-do-salario-minimo-24901841)** O Globo, 27 feb 2021. 
+* **[Os pobres são estratégicos.](https://oglobo.globo.com/economia/os-pobres-sao-estrategicos-24880790)** O Globo, 13 feb 2021. 
+* **[Como salvar empregos para o Brasil pós-coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)** (with Ricardo Dahis). Folha de São Paulo, 29 mar 2020. 
+* **[O que economistas (não) sabem sobre o efeito dos gastos públicos.](https://www1.folha.uol.com.br/mercado/2019/10/o-que-economistas-nao-sabem-sobre-o-efeito-dos-gastos-publicos.shtml)** Folha de São Paulo, 29 out 2019. 
 * **[Quem paga os custos da Reforma da Previdência?](https://www1.folha.uol.com.br/opiniao/2019/07/quem-paga-os-custos-da-reforma-da-previdencia.shtml)** Folha de São Paulo, 24 jul 2019. 
 * **[Por que Bolsonaro está errado sobre o Bolsa Família](https://exame.com/economia/por-que-bolsonaro-esta-errado-sobre-o-bolsa-familia/).** Exame, 9 apr 2019. 
 * **[Robin Hood às avessas, ou o aumento do teto do funcionalismo](https://valor.globo.com/opiniao/coluna/robin-hood-as-avessas-ou-o-aumento-do-teto-dos-servidores.ghtml)**. Valor Econômico, 03 sep 2018. 
