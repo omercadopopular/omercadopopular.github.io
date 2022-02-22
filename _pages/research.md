@@ -11,7 +11,7 @@ author_profile: true
   - (Econometrics, Covid-19) This paper is a commentary showing that one paper published in Nature's Scientific Reports claiming no association between stay-at-home policies and Covid-19 deaths had made serious mathematical mistakes in their regression models, which rendered their conclusion invalid. This commentary led to the retraction of the original paper.
 
 - **[Filling the Gap: Infrastructure Investment in Brazil](https://systems.enpress-publisher.com/index.php/jipd/article/download/828/803)** (with M. Garcia-Escribano, and I. Karpowicz). _Journal of Infrastructure, Policy and Development. Vol 2 Issue 2 (2018)._
-  - (Growth, Infrastructure) This paper assesses the state of Brazil’s infrastructure, in light of past investment trends and various quality and quantity indicators. We provide evidence that infrastructure affects domestic integration by analyzing price convergence of tradable goods across major cities. 
+  - (Growth, Infrastructure, Spatial Data, Trade) This paper assesses the state of Brazil’s infrastructure, in light of past investment trends and various quality and quantity indicators. We provide evidence that infrastructure affects domestic integration by analyzing price convergence of tradable goods across major cities. 
 
 - **[Determinants of Infrastructure and its Financing](https://journals.sagepub.com/doi/pdf/10.1177/2394901517730739)** (with V. Cerra, A. Cuevas, I. Karpowicz, T. Matheson, I. Samake & S. Vtyurina). _Emerging Market Studies. v. 3-1, p. 1-22 (2017)._
   - (Growth, Infrastructure) This paper provides a comprehensive overview of infrastructure in Latin America and highlights key areas in which infrastructure networks can be enhanced. 
