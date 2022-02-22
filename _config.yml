@@ -11,7 +11,7 @@ title                    : "Carlos Góes"
 title_separator          : "-"
 name                     : &name "Carlos Góes"
 description              : &description "personal description"
-url                      : https://omercadopopular.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://omercadopopular.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omercadopopular/omercadopopular.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @goescarlos
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        : "goes.econ"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "https://www.linkedin.com/in/carlosgoes/"
   orcid            : 
   pinterest        :
   soundcloud       :
