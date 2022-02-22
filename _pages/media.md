@@ -11,7 +11,6 @@ author_profile: true
 
 
 # Research references in the media
-
 ## Academic Papers
 
 * **Income Inequality in Brazil: a Closer Look at the Evolution in States**. (with I. Karpowicz) In: _Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery}. Washington: IMF, 2018, pp. 127-37._
@@ -39,7 +38,6 @@ author_profile: true
 	* [**Interviewed** by Radio CBN-Vitória](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html), 21 nov 2016.
 
 ## Policy papers and reports
-
 * **Como as universidades públicas no Brasil perpetuam a desigualdade de renda: fatos, dados e soluções**. (with Daniel Duque) _Nota de Política Pública n. 01/2016. São Paulo: Instituto Mercado Popular._
 	* [**Featured** on Valor Econômico](http://www.valor.com.br/opiniao/4476034/lava-jato-e-o-pib). 10 nov 2016. 
 
@@ -52,7 +50,6 @@ author_profile: true
 	* [**Featured** on Yahoo! News](https://br.noticias.yahoo.com/partidos-fisiol%C3%B3gicos-comandam-49-dos-munic%C3%ADpios-144058157.html). 14 oct 2016.
 
 # Interviews 
-
 ## English
 * [**The Brazilian Report**](https://brazilian.report/podcast/2019/12/18/bolsonaro-1-year-carlos-goes-claudio-couto/) regarding the economic policy of the Bolsonaro administration. 18 dec 2019;
 
@@ -67,4 +64,23 @@ author_profile: true
 * [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. link
 * [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1), 24 aug 2016.
 
-# Op-eds 
+# Op-eds
+## English
+* **[Why Bolsa Família Works](https://semancha.com/2014/03/19/what-do-friedman-and-lula-have-in-common/).** No Se Mancha, 19 mar 2014. 
+* **[The Country of Jabuticabas: Brazil's Path Towards Human Development](https://semancha.com/2013/09/15/the-country-of-jabuticabas-brazils-path-towards-human-development/).** No Se Mancha, 15 sep 2013. 
+* **[The Gringo's Guide to Demonstrations in Brazil](url).** No Se Mancha, 22 jun 2013.
+
+## Portuguese
+* **[Quem paga os custos da Reforma da Previdência?](https://www1.folha.uol.com.br/opiniao/2019/07/quem-paga-os-custos-da-reforma-da-previdencia.shtml)** Folha de São Paulo, 24 jul 2019. 
+* **[Por que Bolsonaro está errado sobre o Bolsa Família](https://exame.com/economia/por-que-bolsonaro-esta-errado-sobre-o-bolsa-familia/).** Exame, 9 apr 2019. 
+* **[Robin Hood às avessas, ou o aumento do teto do funcionalismo](https://valor.globo.com/opiniao/coluna/robin-hood-as-avessas-ou-o-aumento-do-teto-dos-servidores.ghtml)**. Valor Econômico, 03 sep 2018. 
+* **[Mistura de conceitos prejudica compreensão de déficit habitacional](https://www1.folha.uol.com.br/cotidiano/2018/05/mistura-de-conceitos-prejudica-compreensao-de-deficit-habitacional.shtml)** (with Luiza Petroll Rodrigues). Folha de São Paulo, 27 may 2018. 
+* **[Pesquisa sobre concentração de renda deve ser vista com cautela](https://www1.folha.uol.com.br/mercado/2018/01/1954599-pesquisa-sobre-concentracao-de-renda-deve-ser-vista-com-cautela.shtml)**. Folha de São Paulo, 31 jan 2018. 
+* **O que vai acontecer se Trump for Trump.** Veja, fev 2017, ed. 2504, p. 76/77
+* **[Fraude fiscal é mais grave que corrupção](https://veja.abril.com.br/coluna/cacador-de-mitos/carlos-goes-8220-fraude-fiscal-e-mais-grave-que-corrupcao-8221/).** Veja.com, 9 fev 2017. 
+* **[Obstáculo para Trump, população mais diversa demanda reforma republicana](http://temas.folha.uol.com.br/america-partida/demografia-e-eleicoes/obstaculo-para-trump-populacao-mais-diversa-demanda-reforma-republicana.shtml).** Folha de São Paulo, 04 nov 2016.  
+* **[A imprensa estrangeira está denunciando um golpe no Brasil?](https://www1.folha.uol.com.br/opiniao/2016/05/1767493-a-imprensa-estrangeira-esta-denunciando-um-golpe-no-brasil.shtml)** Folha de São Paulo, 04 may 2016. link
+* **[Radiografia dos salários do funcionalismo público](https://valor.globo.com/opiniao/coluna/radiografia-dos-salarios-do-funcionalismo-publico.ghtml).** Valor Econômico, 07 aug 2012. link
+
+## Spanish
+* **[La desigualdad global ha estado cayendo y los pobres nunca han sido más ricos](https://www.elcato.org/olvidese-de-los-titulares-la-desigualdad-global-ha-estado-cayendo-y-los-pobres-nunca-han-sido-mas)**. El Cato, 12 feb 2015. link
