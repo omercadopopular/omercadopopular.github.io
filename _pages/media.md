@@ -39,6 +39,7 @@ author_profile: true
 
 ## Policy papers and reports
 * **Como as universidades públicas no Brasil perpetuam a desigualdade de renda: fatos, dados e soluções**. (with Daniel Duque) _Nota de Política Pública n. 01/2016. São Paulo: Instituto Mercado Popular._
+	* [**Featured** on O Globo](https://blogs.oglobo.globo.com/antonio-gois/post/chance-de-um-aluno-mais-pobre-entrar-numa-universidade-publica-e-de-apenas-2-quadro-nao-e-muito-diferente-nas-particulares.html). 14 nov 2016. 
 	* [**Featured** on Valor Econômico](http://www.valor.com.br/opiniao/4476034/lava-jato-e-o-pib). 10 nov 2016. 
 
 * **Uma radiografia das eleições municipais brasileiras (1996-2016): fatos e dados**. (with Raduan Meira) Nota de Política Pública n. 02/2016. São Paulo: Instituto Mercado Popular._
@@ -54,7 +55,9 @@ author_profile: true
 * [**The Brazilian Report**](https://brazilian.report/podcast/2019/12/18/bolsonaro-1-year-carlos-goes-claudio-couto/) regarding the economic policy of the Bolsonaro administration. 18 dec 2019;
 
 ## Portuguese
+* [**G1 (Renata Loprete)**](https://g1.globo.com/podcast/o-assunto/noticia/2020/03/31/o-assunto-154-saude-x-economia-o-falso-dilema-do-que-salvar.ghtml) regarding the the complementarities between health measures and economic policy during the Covid-19 pandemic. 31 mar 2020.
 * [**G1 (Renata Loprete)**](https://g1.globo.com/podcast/o-assunto/noticia/2019/09/12/o-assunto-14-a-polemica-sobre-uma-nova-cpmf-e-como-ela-ajudou-a-derrubar-o-secretario-da-receita.ghtml) regarding the distributive implications of a financial transactions tax in Brazil. 12 sep 2019.
+* [**BBC Brasil**](https://www.bbc.com/portuguese/brasil-48576812) regarding the Minister Guedes' wishes for a single currency in Mercosur. 10 jun 2019.
 * [**Jornal Nexo**](https://www.nexojornal.com.br/expresso/2019/04/08/%C3%89-justo-o-peso-da-reforma-da-Previd%C3%AAncia-sobre-os-servidores?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter&fbclid=IwAR0tiHS0E8BHpJuomeMHGbY8ggpN6Mvh0DsQVkNvGBIDmF2f50SHZ6l3h34#Echobox=1554778758) regarding the public employees oversized pensions and Brazilian pension reform. 08 abr 2019.
 * [**Poder 360**](https://www1.folha.uol.com.br/mercado/2018/08/aumentar-salario-de-juizes-e-desconhecer-realidade-brasileira-diz-economista.shtml) regarding the economic challenges that the incoming federal administration will face, 12 jan 2019. 
 * [**Folha de São Paulo**](https://www1.folha.uol.com.br/mercado/2018/08/aumentar-salario-de-juizes-e-desconhecer-realidade-brasileira-diz-economista.shtml) regarding the impact of federal employees wages on income inequality in Brazil, 19 ago 2018. link
@@ -71,9 +74,11 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](url).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
+* **[O que economistas (não) sabem sobre o efeito dos gastos públicos](https://www1.folha.uol.com.br/mercado/2019/10/o-que-economistas-nao-sabem-sobre-o-efeito-dos-gastos-publicos.shtml)** Folha de São Paulo, 29 out 2019. 
 * **[Quem paga os custos da Reforma da Previdência?](https://www1.folha.uol.com.br/opiniao/2019/07/quem-paga-os-custos-da-reforma-da-previdencia.shtml)** Folha de São Paulo, 24 jul 2019. 
 * **[Por que Bolsonaro está errado sobre o Bolsa Família](https://exame.com/economia/por-que-bolsonaro-esta-errado-sobre-o-bolsa-familia/).** Exame, 9 apr 2019. 
 * **[Robin Hood às avessas, ou o aumento do teto do funcionalismo](https://valor.globo.com/opiniao/coluna/robin-hood-as-avessas-ou-o-aumento-do-teto-dos-servidores.ghtml)**. Valor Econômico, 03 sep 2018. 
+* **[Como lobistas e ideólogos fazem do Brasil a segunda economia mais fechada do mundo](https://www.infomoney.com.br/politica/como-lobistas-e-ideologos-fazem-do-brasil-a-segunda-economia-mais-fechada-do-mundo/)**. Infomoney, 26 dez 2018.
 * **[Mistura de conceitos prejudica compreensão de déficit habitacional](https://www1.folha.uol.com.br/cotidiano/2018/05/mistura-de-conceitos-prejudica-compreensao-de-deficit-habitacional.shtml)** (with Luiza Petroll Rodrigues). Folha de São Paulo, 27 may 2018. 
 * **[Pesquisa sobre concentração de renda deve ser vista com cautela](https://www1.folha.uol.com.br/mercado/2018/01/1954599-pesquisa-sobre-concentracao-de-renda-deve-ser-vista-com-cautela.shtml)**. Folha de São Paulo, 31 jan 2018. 
 * **O que vai acontecer se Trump for Trump.** Veja, fev 2017, ed. 2504, p. 76/77
