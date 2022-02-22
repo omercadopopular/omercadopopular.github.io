@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Op-eds"
-permalink: /op-eds/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 
