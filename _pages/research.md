@@ -7,6 +7,8 @@ author_profile: true
 1. [Working papers and current research](#working-papers-and-current-research)
 2. [Refereed research articles](#refereed-research-articles) 
 3. [Book chapters](#book-chapters)
+4. [Policy papers and technical reports](#policy-papers-and-technical-reports)
+
 
 # Working papers and current research
 
@@ -23,7 +25,7 @@ article](https://github.com/omercadopopular/omercadopopular.github.io/blob/maste
 - **Product Innovation and International Trade**.
   - (Trade, Growth, Structural Modeling) Modern trade models can be roughly split into two classes. In Ricardian models, trade arises due to technological differences and is induced by comparative advantage. In differentiated variety models, trade happens entirely due to love of variety and typically comparative advantage plays no role. However, trade seems to have features of both of those classes of models. Countries _cannot_ potentially produce the same products and, where there is overlap, comparative advantage shapes trade patterns. One of my goals with this project is to understand the mechanisms behind the dynamic evolution of comparative advantage, in which patterns of specialization changes over time. In order to do so, I generalize the Eaton and Kortum (2002) model of trade to one in which countries have different product spaces. Rather than having all countries potentially being able to produce all varieties contained on the unit interval, I assume that countries $n$ have product spaces with different dimensions $(0,A_{n}]$. This model shares characteristics with both of the aforementioned classes: static gains from trade arise not only due to sourcing goods from the cheapest available supplier, but also from access to varieties that cannot be produced in one's own product space. To characterize which countries source different varieties, I partition the global product space (the set of all varieties available in the world economy) into disjoint intervals and show that each of those partitions is characterized by Ricardian competition for a specific  set of countries. I have completed work on a static version of the model and am working on adding dynamics. My plan is to let the upper bound of the product space grow over time (in a Romer-model fashion) and endogenize the process of product diffusion and innovation, relating it to trade, as in the works Alvarez and Lucas (2013). I hope to be able to set bounds on countries product spaces through the evolution of product exports over time using trade data at the HS-6 digit level and patents data. Potential extensions of this framework could incorporate correlation between process innovation (evolution of the Frechet distribution location parameter) and product innovation (evolution of the product space), such that countries with different levels of productivity specialize on different parts of the global product space. 
 
-# Refereed research 
+# Refereed research articles
 
 - **[Pairwise difference regressions are just weighted averages](https://doi.org/10.1038/s41598-021-02096-3)**. _Nature's Scientific Reports 11, 23044 (2021)._ 
   - (Econometrics, Covid-19) This paper is a commentary showing that one paper published in Nature's Scientific Reports claiming no association between stay-at-home policies and Covid-19 deaths had made serious mathematical mistakes in their regression models, which rendered their conclusion invalid. This commentary led to the retraction of the original paper.
@@ -48,12 +50,9 @@ article](https://github.com/omercadopopular/omercadopopular.github.io/blob/maste
 - **[Income Inequality in Brazil: a Closer Look at the Evolution in States](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/TradeLiberalizationActiveLaborMktPolicies-compressed.pdf)** (with I. Karpowicz) _In: Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery. Washington: IMF, 2018, pp. 111-124._
   - (Inequality, Poverty, Spatial Data) Documents the evolution of income inequality across different states in Brazil. Leverages the data from a large panel of data surveys and uses a novel methodology that allows households’ incomes to be adjusted for price-level differences across states. One of the findings is that regional income inequality in Brazil happens primarily among the middle classes (median households) of each state -- and differences in income across the very poor (bottom 5% of each state) and very rich (top 5% of each state) across states is not very large.
 
-
 - **[Infrastructure in Latin America and the Caribbean](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/InfrastructureLAC_REOIMF.pdf)** (with V. Cerra, A. Cuevas, I. Karpowicz, T. Matheson, R. Papageorgiou, I. Samake, K. Vitola, & S. Vtyurina) _In: Hamid Faruqee; S. Pelin Berkmen. (Eds.). Managing Transitions and Risks}. Washington: IMF, 2016, v. 16, p. 1-115._
   - (Growth, Infrastructure, Latin America) Comprehensive review of quantity and quality of infrastructure capital stock in  Latin America and the Caribbean. 
 
-# Working papers
+# Policy papers and technical reports
 
-
-
-# Technical Reports
+- **Custos Econômicos da Criminalidade no Brasil** (
