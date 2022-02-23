@@ -22,8 +22,14 @@ author_profile: true
 - **[Domestic market integration and the law of one price in Brazil](https://doi.org/10.1080/13504851.2016.1184220)** (with Troy Matheson). _Applied Economics Letters, 24:5, 284-288 (2016)._
   - (Spatial Data, Trade, Dynamic Panels Econometrics) This article presents the first assessment of domestic market integration in Brazil using the law of one price. The law of one price is tested using two panel unit root methodologies and a unique data set comprising price indices for 51 products across 11 metro-areas.
 
-
 # Book chapters
+
+- **[Trade Liberalization and Active Labor Market Policies](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/InequalityBrazilStates-compressed.pdf)** (with A. Messa, C. Pio, E. Leoni, & L.G. Montes) _In: Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery. Washington: IMF, 2018, pp. 111-124._
+- **[Income Inequality in Brazil: a Closer Look at the Evolution in States](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/TradeLiberalizationActiveLaborMktPolicies-compressed.pdf)** (with I. Karpowicz) _In: Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery. Washington: IMF, 2018, pp. 111-124._
+- **[Infrastructure in Latin America and the Caribbean](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/InfrastructureLAC_REOIMF.pdf)** (with V. Cerra, A. Cuevas, I. Karpowicz, T. Matheson, R. Papageorgiou, I. Samake, K. Vitola, & S. Vtyurina) _In: Hamid Faruqee; S. Pelin Berkmen. (Eds.). Managing Transitions and Risks}. Washington: IMF, 2016, v. 16, p. 1-115._
 
 # Working papers
 
+
+
+# Technical Reports
