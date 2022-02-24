@@ -55,8 +55,8 @@ article](https://github.com/omercadopopular/omercadopopular.github.io/blob/maste
 
 # Policy papers and technical reports
 
-- **[Abertura Comercial para o Desenvolvimento Econômico](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/abertura_comercial_para_o_desenvolvimento_economico.pdf)**. (many coauthors, Office of the President of Brazil)
+- **[Abertura Comercial para o Desenvolvimento Econômico](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/abertura_comercial_para_o_desenvolvimento_economico.pdf)** (lead-author, with many coauthors). Office of the President of Brazil, 2018.
     -   (In Portuguese. Trade, Labor, Spatial Data, Structural Model) Documents key facts about trade openness in Brazil (or lack thereof); and then presents the result of a general equilibrium model that tries to anticipate the long run impact of trade liberalization in each commuting zone in Brazil. Most commuting zones would benefit see a mild expansion in formal employment after liberalization, but, consistent with recent empirical estimates, the model predicts that some regions would be disproportionately affected. 
 
-- **[Custos Econômicos da Criminalidade no Brasil](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/custos-economicos-da-criminalidade-no-brasil-06-2018.pdf)**. (many coauthors, Office of the President of Brazil)
+- **[Custos Econômicos da Criminalidade no Brasil](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/custos-economicos-da-criminalidade-no-brasil-06-2018.pdf)** (lead-author, with many coauthors). Office of the President of Brazil, 2018.
     -   (In Portuguese. Development, Accounting, Crime) First accounting of total subnational and central expenditures related to violence in Brazil: justice administration; police; insurance; loss of productive capacity, among others. It incorporates both the private sector and public sector.
