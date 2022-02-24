@@ -65,11 +65,11 @@ author_profile: true
 * [**BBC Brasil**](https://www.bbc.com/portuguese/brasil-48576812) regarding the Minister Guedes' wishes for a single currency in Mercosur. 10 jun 2019.
 * [**Jornal Nexo**](https://www.nexojornal.com.br/expresso/2019/04/08/%C3%89-justo-o-peso-da-reforma-da-Previd%C3%AAncia-sobre-os-servidores?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter&fbclid=IwAR0tiHS0E8BHpJuomeMHGbY8ggpN6Mvh0DsQVkNvGBIDmF2f50SHZ6l3h34#Echobox=1554778758) regarding the public employees oversized pensions and Brazilian pension reform. 08 abr 2019.
 * [**Poder 360**](https://www1.folha.uol.com.br/mercado/2018/08/aumentar-salario-de-juizes-e-desconhecer-realidade-brasileira-diz-economista.shtml) regarding the economic challenges that the incoming federal administration will face, 12 jan 2019. 
-* [**Folha de São Paulo**](https://www1.folha.uol.com.br/mercado/2018/08/aumentar-salario-de-juizes-e-desconhecer-realidade-brasileira-diz-economista.shtml) regarding the impact of federal employees wages on income inequality in Brazil, 19 ago 2018. link
+* [**Folha de São Paulo**](https://www1.folha.uol.com.br/mercado/2018/08/aumentar-salario-de-juizes-e-desconhecer-realidade-brasileira-diz-economista.shtml) regarding the impact of federal employees wages on income inequality in Brazil, 19 ago 2018. 
 * [**BBC Brazil**](https://www.bbc.com/portuguese/geral-42762862) regarding the Oxfam's annual inequality report, 22 jan 2018. 
-* [**Folha de São Paulo**](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml) regarding trends in regional income inequality in Brazil, 02 dec 2017. link
-* [**Radio CBN**](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html) regarding trends in global and domestic income inequality, 21 nov 2016. link
-* [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. link
+* [**Folha de São Paulo**](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml) regarding trends in regional income inequality in Brazil, 02 dec 2017. 
+* [**Radio CBN**](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html) regarding trends in global and domestic income inequality, 21 nov 2016. 
+* [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. 
 * [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1), 24 aug 2016.
 
 # Op-eds
