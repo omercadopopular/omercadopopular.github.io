@@ -30,6 +30,12 @@ Tinyapps are some small scripts I have coded to support research or work, but ar
 
 Tutorials are very annotated (but not necessarily structured) lessons on different topics. The annotations are meant to help the reader learn what the code is doing and learn by reading and replying it.
 
+* [Infinite discrete time deterministic neoclassical growth model](https://github.com/omercadopopular/cgoes/blob/master/tutorial/python/Infinite%20discrete%20time%20deterministic%20neoclassical%20growth%20model.ipynb), Python.
+* [Details of Value Function Iteration](https://github.com/omercadopopular/cgoes/blob/master/tutorial/python/VFI%20Macro%20210A.ipynb), Python.
+* [Automatic Download and Manipulation of World Bank Data](https://github.com/omercadopopular/cgoes/blob/master/tutorial/python/Automatic%20Download%20and%20Manipulation%20of%20World%20Bank%20Data.ipynb), Python.
+
+
+Other material in:
 * [Python](https://github.com/omercadopopular/cgoes/tree/master/tutorial/python)
 * [R](https://github.com/omercadopopular/cgoes/tree/master/tutorial/R)
 * [Stata](https://github.com/omercadopopular/cgoes/tree/master/tutorial/stata)
