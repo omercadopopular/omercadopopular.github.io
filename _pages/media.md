@@ -67,7 +67,7 @@ author_profile: true
 
 # Interviews 
 ## English
-* [**The Brazilian Report**](https://brazilian.report/podcast/2019/12/18/bolsonaro-1-year-carlos-goes-claudio-couto/) regarding the economic policy of the Bolsonaro administration. 18 dec 2019;
+* [**The Brazilian Report**](https://brazilian.report/podcast/2019/12/18/bolsonaro-1-year-carlos-goes-claudio-couto/) regarding the economic policy of the Bolsonaro administration. 18 dec 2019.
 
 ## Portuguese
 * [**G1 (Renata Loprete)**](https://g1.globo.com/podcast/o-assunto/noticia/2020/03/31/o-assunto-154-saude-x-economia-o-falso-dilema-do-que-salvar.ghtml) regarding the the complementarities between health measures and economic policy during the Covid-19 pandemic. 31 mar 2020.
