@@ -86,7 +86,7 @@ author_profile: true
 ## English
 * **[Why Bolsa Família Works](https://semancha.com/2014/03/19/what-do-friedman-and-lula-have-in-common/).** No Se Mancha, 19 mar 2014. 
 * **[The Country of Jabuticabas: Brazil's Path Towards Human Development](https://semancha.com/2013/09/15/the-country-of-jabuticabas-brazils-path-towards-human-development/).** No Se Mancha, 15 sep 2013. 
-* **[The Gringo's Guide to Demonstrations in Brazil](url).** No Se Mancha, 22 jun 2013.
+* **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
 * **[Brasil não é mais um país de imigrantes.](https://oglobo.globo.com/economia/brasil-nao-mais-um-pais-de-imigrantes-25391280)** O Globo, 12 feb 2022. 
