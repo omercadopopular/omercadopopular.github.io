@@ -80,7 +80,7 @@ author_profile: true
 * [**Folha de São Paulo**](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml) regarding trends in regional income inequality in Brazil, 02 dec 2017. 
 * [**Radio CBN**](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html) regarding trends in global and domestic income inequality, 21 nov 2016. 
 * [**Radio Jovem Pan**](https://www.youtube.com/watch?v=4TJ-RRnJoQs&feature=youtu.be) regarding the Brazilian expenditure cap ceiling. 17 oct 2016. 
-* [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1), 24 aug 2016.
+* [**Radio France International**](https://www.rfi.fr/br/brasil/20160824-desigualdade-esta-nas-profissoes-diz-brasileiro-que-contestou-thomas-piketty-1) regarding my paper testing Piketty's hypothesis on top incomes inequality. 24 aug 2016.
 
 # Op-eds
 ## English
