@@ -19,7 +19,7 @@ author_profile: true
 	*  [**Featured** on Retraction Watch](https://retractionwatch.com/2021/12/13/paper-claiming-a-lack-of-evidence-covid-19-lockdowns-work-is-retracted/), 13 dec 2021.
 
 * **Income Inequality in Brazil: a Closer Look at the Evolution in States**. (with I. Karpowicz) In: _Antonio Spilimbergo and Krishna Srinivasan. (Eds.). Brazil: Boom, Bust, and the Road to Recovery}. Washington: IMF, 2018, pp. 127-37._
-  	*  [**Interviewed** by Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml), 02 dec 2017.
+	* [**Interviewed** by Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2017/12/1940185-funcionalismo-acentua-desigualdade-de-renda-entre-os-estados-diz-estudo.shtml), 02 dec 2017.
 	* [**Featured** on Gazeta do Povo](http://www.gazetadopovo.com.br/politica/republica/altos-salarios-dos-servidores-impedem-queda-maior-da-desigualdade-no-pais-bsi2bvxcfxix6on7lwgm4oue3), 29 dec 2017
 	* [**Featured** on Diário do Nordeste](http://www.gazetadopovo.com.br/politica/republica/altos-salarios-dos-servidores-impedem-queda-maior-da-desigualdade-no-pais-bsi2bvxcfxix6on7lwgm4oue3), 04 dec 2017.
 	* [**Featured** on O Estado (Ceará)](https://issuu.com/oestadoce/docs/03-12), 03 dec 2017.
@@ -43,11 +43,15 @@ author_profile: true
 	* [**Interviewed** by Radio CBN-Vitória](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html), 21 nov 2016.
 
 ## Policy papers and reports
+* **[Custos Econômicos da Criminalidade no Brasil](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/custos-economicos-da-criminalidade-no-brasil-06-2018.pdf)** (lead-author, with many coauthors). Office of the President of Brazil, 2018.
+	* [**Featured** on O Globo](https://oglobo.globo.com/opiniao/medindo-os-custos-economicos-da-criminalidade-no-brasil-22772123). 13 jun 2018.
+	* [**Featured** on Folha de São Paulo](https://www1.folha.uol.com.br/cotidiano/2018/06/cada-jovem-morto-faz-pais-perder-r-550-mil.shtml). 11 jun 2018.
+
 * **[Abertura Comercial para o Desenvolvimento Econômico](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/abertura_comercial_para_o_desenvolvimento_economico.pdf)** (lead-author, with many coauthors). Office of the President of Brazil, 2018.
-	* [**Featured** on Estadão](https://economia.estadao.com.br/blogs/fernando-dantas/abrir-o-comercio-proteger-o-trabalhador/?fbclid=IwAR0Qy6ekQB_NzcXDZvKP2U02htflVP1Y75k7K0TLivBN4GZvnB93DOLvqCU)
-	* [**Featured** on G1](https://g1.globo.com/mundo/blog/helio-gurovitz/post/2018/03/08/e-se-o-brasil-se-abrisse-mais.ghtml?fbclid=IwAR2aPze7Dy3qeR4KROz0pC_12FEmMHyFjR-ujxZ3m0akZW5g1SbI9SoGMKc)
-	* [**Featured** on Valor Econômico](https://valor.globo.com/brasil/coluna/estudo-da-sae-defende-maior-abertura-da-economia-brasileira.ghtml)
-	* [**Featured** on Poder 360](https://www.poder360.com.br/economia/com-abertura-comercial-75-dos-setores-criariam-empregos-diz-governo/?fbclid=IwAR17ps78EN6qEGCdNhgXqXa1PjVr0H_N7q2tSX58SKspPmYKtSPegjZnOeA)
+	* [**Featured** on Estadão](https://economia.estadao.com.br/blogs/fernando-dantas/abrir-o-comercio-proteger-o-trabalhador/?fbclid=IwAR0Qy6ekQB_NzcXDZvKP2U02htflVP1Y75k7K0TLivBN4GZvnB93DOLvqCU). 08 mar 2018.
+	* [**Featured** on G1](https://g1.globo.com/mundo/blog/helio-gurovitz/post/2018/03/08/e-se-o-brasil-se-abrisse-mais.ghtml?fbclid=IwAR2aPze7Dy3qeR4KROz0pC_12FEmMHyFjR-ujxZ3m0akZW5g1SbI9SoGMKc). 08 mar 2018.
+	* [**Featured** on Valor Econômico](https://valor.globo.com/brasil/coluna/estudo-da-sae-defende-maior-abertura-da-economia-brasileira.ghtml). 08 mar 2018.
+	* [**Featured** on Poder 360](https://www.poder360.com.br/economia/com-abertura-comercial-75-dos-setores-criariam-empregos-diz-governo/?fbclid=IwAR17ps78EN6qEGCdNhgXqXa1PjVr0H_N7q2tSX58SKspPmYKtSPegjZnOeA). 08 mar 2018.
 
 * **Como as universidades públicas no Brasil perpetuam a desigualdade de renda: fatos, dados e soluções**. (with Daniel Duque) _Nota de Política Pública n. 01/2016. São Paulo: Instituto Mercado Popular._
 	* [**Featured** on O Globo](https://blogs.oglobo.globo.com/antonio-gois/post/chance-de-um-aluno-mais-pobre-entrar-numa-universidade-publica-e-de-apenas-2-quadro-nao-e-muito-diferente-nas-particulares.html). 14 nov 2016. 
