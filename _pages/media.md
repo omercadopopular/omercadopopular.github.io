@@ -43,6 +43,12 @@ author_profile: true
 	* [**Interviewed** by Radio CBN-Vitória](http://www.gazetaonline.com.br/cbn_vitoria/entrevistas/2016/11/brasil-precisa-de-pelo-menos-seis-reformas-afirma-gandra-1013998072.html), 21 nov 2016.
 
 ## Policy papers and reports
+* **[Abertura Comercial para o Desenvolvimento Econômico](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/abertura_comercial_para_o_desenvolvimento_economico.pdf)** (lead-author, with many coauthors). Office of the President of Brazil, 2018.
+	* [**Featured** on Estadão](https://economia.estadao.com.br/blogs/fernando-dantas/abrir-o-comercio-proteger-o-trabalhador/?fbclid=IwAR0Qy6ekQB_NzcXDZvKP2U02htflVP1Y75k7K0TLivBN4GZvnB93DOLvqCU)
+	* [**Featured** on G1](https://g1.globo.com/mundo/blog/helio-gurovitz/post/2018/03/08/e-se-o-brasil-se-abrisse-mais.ghtml?fbclid=IwAR2aPze7Dy3qeR4KROz0pC_12FEmMHyFjR-ujxZ3m0akZW5g1SbI9SoGMKc)
+	* [**Featured** on Valor Econômico](https://valor.globo.com/brasil/coluna/estudo-da-sae-defende-maior-abertura-da-economia-brasileira.ghtml)
+	* [**Featured** on Poder 360](https://www.poder360.com.br/economia/com-abertura-comercial-75-dos-setores-criariam-empregos-diz-governo/?fbclid=IwAR17ps78EN6qEGCdNhgXqXa1PjVr0H_N7q2tSX58SKspPmYKtSPegjZnOeA)
+
 * **Como as universidades públicas no Brasil perpetuam a desigualdade de renda: fatos, dados e soluções**. (with Daniel Duque) _Nota de Política Pública n. 01/2016. São Paulo: Instituto Mercado Popular._
 	* [**Featured** on O Globo](https://blogs.oglobo.globo.com/antonio-gois/post/chance-de-um-aluno-mais-pobre-entrar-numa-universidade-publica-e-de-apenas-2-quadro-nao-e-muito-diferente-nas-particulares.html). 14 nov 2016. 
 	* [**Featured** on Valor Econômico](http://www.valor.com.br/opiniao/4476034/lava-jato-e-o-pib). 10 nov 2016. 
