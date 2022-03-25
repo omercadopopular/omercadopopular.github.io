@@ -20,3 +20,17 @@ time. Use them at your own risk.
 7. [Government Consumption and Distortionary Taxation](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/7.%20Government%20Consumption%20and%20Distortionary%20Taxation.pdf)
 
 - Extra: [How to Derive optimal demand under monopolistic competition/C.E.S. Dixit-Stiglitz Aggregator Preferences.](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/8.%20CES.pdf)
+
+# Introduction to Statistics and Probability with Python (in Portuguese)
+
+I taught "Introduction to Stats and Probability with Python" at Institute for Higher Education of Brasília (IESB), a private university in Brasília, Brazil. This class was part of a graduate degree in Data Science and was meant to cover basic principles of statistics and statistical programming.
+
+1. [Basic Concepts of Statistics and Statistical Programming](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%201.pdf)
+2. [Data Types (Time Series, Panel Data, Cross-Section); Descriptive Statistics; Introduction to pandas.](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%202.pdf)
+3. [Intro do Data Visualization; Intro to matplotlib and seaborn](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%203.pdf)
+4. [Mean, Median, Mode, Quantiles and Standard Deviation](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%204.pdf)
+5. No slides (review before midterm)
+6. [Functions, Probability, Density Functions, Z-scores](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%206.pdf)
+7. [Central limit theorem, standard errors and confidence intervals](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%207.pdf)
+8. [Hypothesis testing, t-statistics, p-value](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%208.pdf)
+9. [Intro to regression analysis; intro to statsmodels](https://github.com/omercadopopular/cgoes/blob/master/StatsPython/slides/Aula%209.pdf)
