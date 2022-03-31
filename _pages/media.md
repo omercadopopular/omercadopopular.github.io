@@ -13,6 +13,9 @@ author_profile: true
 # Research references in the media
 ## Academic Papers
 
+* **The Impact of Geopolitical Conflicts on Trade, Growth, and Innovation**. _arXiv Working Paper_
+	*  [**Featured** on World Economic Forum's stories to read this week](https://www.weforum.org/agenda/2022/03/economy-news-stories-inflation-economics-31-march/), 31 mar 2021.
+
 * **Pairwise difference regressions are just weighted averages**. _Nature's Scientific Reports. 11-23044, 2021._
 	*  [**Featured** on Folha de São Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2021/12/artigo-que-afirmava-que-lockdown-nao-evita-morte-por-covid-e-despublicado.shtml), 18 dec 2021.
 	*  [**Featured** on Medscape](https://www.medscape.com/viewarticle/964926?src=), 16 dec 2021.
