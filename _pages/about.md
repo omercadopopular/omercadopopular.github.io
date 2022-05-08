@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research agenda lies on the intersection between macroeconomics and international trade; I describe it as “Spatial Macroeconomics and Dynamic Trade.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, innovation, and business cycles. 
+I am a spatial economist whose research agenda lies on the intersection between macroeconomics and international trade; I describe it as “Spatial Macroeconomics and Dynamic Trade.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, innovation, and business cycles. 
 
 Bio
 ======
