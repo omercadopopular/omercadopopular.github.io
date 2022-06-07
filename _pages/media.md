@@ -14,7 +14,9 @@ author_profile: true
 ## Academic Papers
 
 * **The Impact of Geopolitical Conflicts on Trade, Growth, and Innovation**. _arXiv Working Paper_
-	*  [**Featured** on World Economic Forum's stories to read this week](https://www.weforum.org/agenda/2022/03/economy-news-stories-inflation-economics-31-march/), 31 mar 2021.
+	*  [**Featured** on World Economic Forum's stories to read this week](https://www.weforum.org/agenda/2022/03/economy-news-stories-inflation-economics-31-march/), 31 mar 2022.
+	*  [**Featured** on Epoch Investment Partners' Quarterly Newsletter](https://www.eipny.com/wp-content/uploads/2022/04/Epoch-Quarterly-Newsletter_April-2022.pdf), 1 apr 2022.
+	*  [**Featured** on Quartz](https://qz.com/2173562/what-is-friendshoring/), 2 jun 2022.
 
 * **Pairwise difference regressions are just weighted averages**. _Nature's Scientific Reports. 11-23044, 2021._
 	*  [**Featured** on Folha de São Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2021/12/artigo-que-afirmava-que-lockdown-nao-evita-morte-por-covid-e-despublicado.shtml), 18 dec 2021.
@@ -92,6 +94,12 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
+* **[O bandido estacionado.](https://oglobo.globo.com/economia/o-bandido-estacionado-25522620)** O Globo, 04 jun 2022. 
+* **[Segurança Pública e Ciência.](https://oglobo.globo.com/economia/seguranca-publica-ciencia-25502835)** O Globo, 07 may 2022. 
+* **[O multiplicador do auxílio.](https://oglobo.globo.com/economia/o-multiplicador-de-auxilio-1-25486163)** O Globo, 23 apr 2022. 
+* **[Petrobrás: presente, passado e futuro.](https://oglobo.globo.com/economia/petrobras-passado-presente-futuro-25469042)** O Globo, 9 apr 2022. 
+* **[Mamãe, Falhei.](https://oglobo.globo.com/economia/mamae-falhei-25429522)** O Globo, 12 mar 2022. 
+* **[Funcionalismo na década perdida.](https://oglobo.globo.com/economia/funcionalismo-na-decada-perdida-25411425)** O Globo, 26 feb 2022. 
 * **[Brasil não é mais um país de imigrantes.](https://oglobo.globo.com/economia/brasil-nao-mais-um-pais-de-imigrantes-25391280)** O Globo, 12 feb 2022. 
 * **[A loteria do nascimento determina o tamanho de nossos sonhos.](https://oglobo.globo.com/economia/a-loteria-do-nascimento-determina-tamanho-de-nossos-sonhos-25372215)** O Globo, 29 jan 2022. 
 * **[A importância do autoteste de Covid.](https://oglobo.globo.com/economia/a-importancia-do-autoteste-de-covid-25355275)** O Globo, 15 jan 2022. 
