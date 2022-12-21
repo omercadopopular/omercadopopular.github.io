@@ -94,6 +94,18 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
+* **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** O Globo, 03 dez 2022. 
+* **[Herança maldita.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/heranca-maldita.ghtml)** O Globo, 19 nov 2022. 
+* **[Polarizados em dois Brasis?](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/polarizados-em-dois-brasis.ghtml)** O Globo, 05 nov 2022. 
+* **[Liberal da Conceição.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/liberal-da-conceicao.ghtml)** O Globo, 22 oct 2022. 
+* **[Limitando o poder presidencial.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/limitando-o-poder-presidencial.ghtml)** O Globo, 08 oct 2022. 
+* **[O presidente antiliberal.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** O Globo, 24 sep 2022. 
+* **[Um otimista no bicentenário.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** O Globo, 10 sep 2022. 
+* **[O capital social.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-capital-social.ghtml)** O Globo, 27 ago 2022. 
+* **[O imposto maternidade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-imposto-maternidade.ghtml)** O Globo, 18 ago  2022. 
+* **[O 'bolsochavismo'.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-bolsochavismo.ghtml)** O Globo, 30 jul 2022. 
+* **[Geração Zombada.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/geracao-zombada-pelos-erros-de-gestao-dos-politicos-brasileiros.ghtml)** O Globo, 16 jul 2022. 
+* **[O país tornou-se uma grande Sucupira.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-pais-tornou-se-uma-grande-sucupira.ghtml)** O Globo, 02 jul 2022. 
 * **[O bandido estacionado.](https://oglobo.globo.com/economia/o-bandido-estacionado-25522620)** O Globo, 04 jun 2022. 
 * **[Segurança Pública e Ciência.](https://oglobo.globo.com/economia/seguranca-publica-ciencia-25502835)** O Globo, 07 may 2022. 
 * **[O multiplicador do auxílio.](https://oglobo.globo.com/economia/o-multiplicador-de-auxilio-1-25486163)** O Globo, 23 apr 2022. 
