@@ -12,7 +12,7 @@ I am a spatial economist whose research agenda lies on the intersection between 
 
 Bio
 ======
-Carlos Góes is the founder of Instituto Mercado Popular, a São Paulo-based think tank. He has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Trade Organization, and U.S. think tanks. 
+Carlos Góes is the founder of Instituto Mercado Popular, a São Paulo-based think tank. He has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Trade Organization, the World Bank, and U.S. think tanks. 
 
 His work has been featured in global outlets such as the Wall Street Journal, the Financial Times, El País and Le Monde. His research spans over different topics (including trade, economic development, and income inequality). Góes has been named one of the "30 persons every investor should follow" by Infomoney, a Brazilian finance magazine, and is an economics columnist for O Globo, a major Brazilian newspaper.
 
