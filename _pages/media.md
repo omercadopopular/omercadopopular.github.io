@@ -14,9 +14,11 @@ author_profile: true
 ## Academic Papers
 
 * **The Impact of Geopolitical Conflicts on Trade, Growth, and Innovation**. _arXiv Working Paper_
-	*  [**Featured** on World Economic Forum's stories to read this week](https://www.weforum.org/agenda/2022/03/economy-news-stories-inflation-economics-31-march/), 31 mar 2022.
-	*  [**Featured** on Epoch Investment Partners' Quarterly Newsletter](https://www.eipny.com/wp-content/uploads/2022/04/Epoch-Quarterly-Newsletter_April-2022.pdf), 1 apr 2022.
+	*  [**Featured** on the Financial Times' Martin Wolf Column](https://www.ft.com/content/3bc33cc4-1ee9-42ce-bcc2-2ba2a483e8ce?accessToken=zwAAAYeCMPZDkc87wzzEHulCztO8wiuipIPozg.MEUCIGCeGpfMDCKRHqC24gKNe5C9_s-u-YLeO4cSX44YHMd_AiEA2rwI77ZySold6xo5gzhNrY1pbSXVmby7mwtdQtm29So&sharetype=gift&token=31e22f77-5928-4ef2-bf2a-c07e9613aea1), 14 feb 2023
+	*  [**Featured** on the Financial Times' Weekend Essay](https://www.ft.com/content/a3c224d1-c604-4393-9c32-922f634ab36a), 22 sep 2022
 	*  [**Featured** on Quartz](https://qz.com/2173562/what-is-friendshoring/), 2 jun 2022.
+	*  [**Featured** on Epoch Investment Partners' Quarterly Newsletter](https://www.eipny.com/wp-content/uploads/2022/04/Epoch-Quarterly-Newsletter_April-2022.pdf), 1 apr 2022.
+	*  [**Featured** on World Economic Forum's stories to read this week](https://www.weforum.org/agenda/2022/03/economy-news-stories-inflation-economics-31-march/), 31 mar 2022.
 
 * **Pairwise difference regressions are just weighted averages**. _Nature's Scientific Reports. 11-23044, 2021._
 	*  [**Featured** on Folha de São Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2021/12/artigo-que-afirmava-que-lockdown-nao-evita-morte-por-covid-e-despublicado.shtml), 18 dec 2021.
