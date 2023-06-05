@@ -12,7 +12,7 @@ author_profile: true
 
 # Working papers and current research
 
-- **Trade, Growth, and Product Innovation**.
+- **Trade, Growth, and Product Innovation**. (Job Market Paper)
   - (Trade, Growth, Structural Modeling) Can economic integration induce product innovation? Opposing mechanisms point to different directions: specialization and selection forces induce a decrease in produced goods while increased market access incentivizes growth in the number of produced varieties. I propose a new quantitative framework that features trade by comparative advantage, endogenous growth, and innovation in differentiated varieties – i.e., it integrates the opposing forces of specialization and market size. This model encompasses an arbitrary number of asymmetric countries and nests the Eaton-Kortum model of trade and the Romer growth model as special cases. I show that in this framework the steady state equilibrium product innovation growth rate increases as countries open to foreign trade. Finally, I causally test the mechanism exploiting the 2004 Eastwards expansion of the European Union. When Eastern European countries joined the EU, they had immediate access to a set of previously existing trade agreements they did not get to negotiate. Using product-level variation and trade-and-production matched data, I show that a plausibly exogenous increase in market access increases the probability of starting production of and exporting a given product.
   - [Slides](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/CGoesTradeGrowthProductInnovationDeckJune2023.pdf).
 
