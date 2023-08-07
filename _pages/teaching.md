@@ -4,8 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+# Long Run Macroeconomics, Econ 110A, Undergraduate (Growth)
 
-# Graduate Macroeconomics (TA Session Discussion Notes)
+I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate Macroeconomics. The course covers Long Run Macroeconomics (Growth) and follows Chad Jones' Macroeconomics textbook. My teaching material was largely based on Giacomo Rondina's slides, who was my supervising faculty for this course.
+
+1. [Intro & the Neoclassical Growth Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%201.pdf)
+2. [Measuring the Economy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%202.pdf )
+
+
+# Graduate Macroeconomics, Econ 210A, TA Session Discussion Notes (Growth)
 
 I was the Teaching Assistant of UCSD's PhD First Year macro sequence. Below I publish the notes I have used for the discussion session with first years.
 They tend to be very detailed in algebraic derivations, since the objective is to make them easily comprehensible by students who are facing this material for the first
