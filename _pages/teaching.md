@@ -10,6 +10,10 @@ I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate 
 
 1. [Intro & the Neoclassical Growth Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%201.pdf)
 2. [Measuring the Economy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%202.pdf )
+3. [Long Run Growth: Facts](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%203.pdf)
+4. [A Model of Production (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%204.pdf)
+
+
 
 
 # Graduate Macroeconomics, Econ 210A, TA Session Discussion Notes (Growth)
