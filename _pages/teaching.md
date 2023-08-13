@@ -12,6 +12,8 @@ I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate 
 2. [Measuring the Economy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%202.pdf )
 3. [Long Run Growth: Facts](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%203.pdf)
 4. [A Model of Production (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%204.pdf)
+5. [A Model of Production (ii): Experiments](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%205.pdf)
+6. [The Solow Model: Analysis](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%206.pdf)
 
 
 
