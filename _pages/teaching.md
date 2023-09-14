@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Long Run Macroeconomics, Econ 110A, Undergraduate (Growth)
 
-I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate Macroeconomics. The course covers Long Run Macroeconomics (Growth) and follows Chad Jones' Macroeconomics textbook. My teaching material was largely based on Giacomo Rondina's slides, who was my supervising faculty for this course.
+I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate Macroeconomics. The course covers Long Run Macroeconomics (Growth) and follows Chad Jones' Macroeconomics textbook. My teaching material was somewhat based on Giacomo Rondina's slides, who was the supervising faculty for this course.
 
 1. [Intro & the Neoclassical Growth Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%201.pdf)
 2. [Measuring the Economy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%202.pdf )
@@ -14,6 +14,18 @@ I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate 
 4. [A Model of Production (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%204.pdf)
 5. [A Model of Production (ii): Experiments](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%205.pdf)
 6. [The Solow Model: Analysis](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%206.pdf)
+7. [The Solow Model: Experiments](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%207.pdf)
+8. [How do Firms Make Investment Decisions?](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%208.pdf)
+9. [The Economics of Ideas and Increasing Returns](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%209.pdf)
+10. [The Romer Model: Ideas and Labor](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%210.pdf)
+11. [The Combined Romer and Solow Model: Ideas, Labor and Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%211.pdf)
+12. [A Model of a Competitive Labor Market](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%212.pdf)
+13. [Monopsony and an Introduction to Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%213.pdf)
+14. [The Lucas Model and Facts About Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%214.pdf)
+15. [Money and Prices](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%215.pdf)
+16. [Permanent Income Hypothesis, The Marginal Propensity to Consume, Borrowing Constraints](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%216.pdf)
+17. [Review Ahed of Final](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%217.pdf)
+
 
 
 
