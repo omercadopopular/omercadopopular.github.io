@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Long Run Macroeconomics, Econ 110A, Undergraduate (Growth)
 
-I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate Macroeconomics. The course covers Long Run Macroeconomics (Growth) and follows Chad Jones' Macroeconomics textbook. My teaching material was somewhat based on Giacomo Rondina's slides, who was the supervising faculty for this course.
+I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate Macroeconomics. The course covers Long Run Macroeconomics (Growth) and follows Chad Jones' Macroeconomics textbook. My teaching material was somewhat based on [Giacomo Rondina](https://giacomorondina.org/)'s slides, who was the supervising faculty for this course.
 
 1. [Intro & the Neoclassical Growth Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%201.pdf)
 2. [Measuring the Economy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%202.pdf )
