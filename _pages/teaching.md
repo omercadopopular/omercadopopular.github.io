@@ -36,7 +36,7 @@ I was the Teaching Assistant of UCSD's PhD First Year macro sequence. Below I pu
 They tend to be very detailed in algebraic derivations, since the objective is to make them easily comprehensible by students who are facing this material for the first
 time. Use them at your own risk.
 
-1. [Fundamentals of Value Function Iteration](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/PhDLec1.pdf)
+1. [Mathematical Foundations for Understanding Value Function Iteration](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/PhDLec1.pdf)
 2. [Analytical and Numerical Solutions to VFI](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/PhDLec2.pdf) 
 3. [Inefficient Equilibria - Economy with Externalities](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/PhDLec3.pdf)
 4. [Describing and Characterizing Competitive Equilibria](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/phdta/PhDLec4.pdf)
