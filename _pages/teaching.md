@@ -17,14 +17,14 @@ I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate 
 7. [The Solow Model: Experiments](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%207.pdf)
 8. [How do Firms Make Investment Decisions?](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%208.pdf)
 9. [The Economics of Ideas and Increasing Returns](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%209.pdf)
-10. [The Romer Model: Ideas and Labor](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%210.pdf)
-11. [The Combined Romer and Solow Model: Ideas, Labor and Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%211.pdf)
-12. [A Model of a Competitive Labor Markets](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%212.pdf)
-13. [A Model of a Monopsonistic Labor Markets; and an Introduction to Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%213.pdf)
-14. [The Lucas Model and Facts About Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%214.pdf)
-15. [Money and Prices](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%215.pdf)
-16. [Permanent Income Hypothesis, The Marginal Propensity to Consume, Borrowing Constraints](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%216.pdf)
-17. [Review Ahed of Final](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%217.pdf)
+10. [The Romer Model: Ideas and Labor](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2010.pdf)
+11. [The Combined Romer and Solow Model: Ideas, Labor and Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2011.pdf)
+12. [A Model of a Competitive Labor Markets](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2012.pdf)
+13. [A Model of a Monopsonistic Labor Markets; and an Introduction to Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2013.pdf)
+14. [The Lucas Model and Facts About Human Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2014.pdf)
+15. [Money and Prices](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2015.pdf)
+16. [Permanent Income Hypothesis, The Marginal Propensity to Consume, Borrowing Constraints](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2016.pdf)
+17. [Review Ahed of Final](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2017.pdf)
 
 
 
