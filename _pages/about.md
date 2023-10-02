@@ -10,8 +10,8 @@ redirect_from:
 
 I am a spatial economist whose research agenda lies on the intersection between macroeconomics and international trade; I describe it as “Spatial Macroeconomics and Dynamic Trade.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, trade, and inequality. 
 
-I am on the job market in the academic year 2023-2024, and I am available for interviews at the ASSA meetings.
-
+**I am on the job market in the academic year 2023-2024, and I am available for interviews at the ASSA meetings.
+**
 You can find my [CV here](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/CV-GoesC.pdf). 
 
 Job Market Paper
@@ -19,7 +19,7 @@ Job Market Paper
 **Trade, Growth, and Product Innovation**. (Job Market Paper)
  
 _Abstract_: Can economic integration induce product innovation? I propose a new quantitative framework that integrates the opposing forces of specialization and market size to answer this question. This model encompasses an arbitrary number of asymmetric countries and nests the Eaton-Kortum model of trade and the Romer growth model as special cases. I provide an analytical expression for welfare gains from trade and show that its static and dynamic components operate through the two aforementioned opposing forces. In this framework, the product innovation growth rate increases with higher market access. I test this dynamic mechanism exploiting the 2004 Eastwards expansion of the European Union and show that a plausibly exogenous increase in market access increases the probability of starting production of and exporting a given product. Finally, I calibrate a quantitative version of the model and estimate that: (a) the EU expansion increased its long-run yearly growth rate by about 0.16%; and (b) dynamic gains account for more than 90% of welfare gains from trade.
-  - [Paper](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP.pdf); [Slides](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP.pdf)
+  - [Paper](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP.pdf); [Slides](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP-Slides.pdf)
 
 Bio
 ======
