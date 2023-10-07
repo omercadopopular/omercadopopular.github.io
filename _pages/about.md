@@ -19,7 +19,6 @@ Job Market Paper
 **Trade, Growth, and Product Innovation**. (Job Market Paper)
  
 _Abstract_: Can economic integration induce product innovation? I propose a new quantitative framework that integrates the opposing forces of specialization and market size to answer this question. This model encompasses an arbitrary number of asymmetric countries and nests the Eaton-Kortum model of trade and the Romer growth model as special cases. I provide an analytical expression for welfare gains from trade and show that its static and dynamic components operate through the two aforementioned opposing forces. In this framework, the product innovation growth rate increases with higher market access. I test this dynamic mechanism exploiting the 2004 Eastwards expansion of the European Union and show that a plausibly exogenous increase in market access increases the probability of starting production of and exporting a given product. Finally, I calibrate a quantitative version of the model and estimate that: (a) the EU expansion increased its long-run yearly growth rate by about 0.16%; and (b) dynamic gains account for more than 90% of welfare gains from trade.
-  - [Paper](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP.pdf); [Slides](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP-Slides.pdf)
 
 Bio
 ======
