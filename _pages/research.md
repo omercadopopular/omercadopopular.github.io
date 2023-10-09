@@ -33,7 +33,7 @@ article](https://browse.arxiv.org/pdf/2203.12173.pdf); [VoxEU Column](https://vo
   - [Draft](https://browse.arxiv.org/pdf/2301.09252.pdf)
   - Presented at _UCSD Graduate Student Seminar Series_ and the  _World Bank's Brownbag Lunch Seminar Series_.
 
-- **Testing Piketty’s Hypothesis on the Drivers of Income Inequality: Evidence from Panel VARs with Heterogeneous Dynamics** _Submitted to **Public Choice**_
+- **Testing Piketty’s Hypothesis on the Drivers of Income Inequality: Evidence from Panel VARs with Heterogeneous Dynamics** _Revision requested at **Public Choice**_
   - (Inequality, Empirical Macroeconomics) Thomas Piketty's _Capital in the Twenty-First Century_ puts forth a logically consistent explanation for changes in income and wealth inequality patterns. However, while rich in data, the book provides no formal empirical testing for its theoretical causal chain. In this paper, I build a set of Panel SVAR models to check if inequality and capital share in the national income move up as the $r-g$ gap grows. Using a sample of 19 advanced economies spanning over 30 years, I find no empirical evidence that dynamics move in the way Piketty suggests. Results are robust to several alternative estimates of $r-g$
   - [Draft](https://github.com/omercadopopular/cgoes/blob/master/piketty/Testing_Piketty.pdf?raw=true).
  
