@@ -91,6 +91,9 @@ author_profile: true
 
 # Op-eds
 ## English
+* **[Looking at trade effects on gender-segmented labor markets in Tunisia](https://blogs.worldbank.org/developmenttalk/looking-trade-effects-gender-segmented-labor-markets-tunisia).** (with Gladys Lopez-Acevedo and Raymond Robertson) The World Bank Development Blog, Aug 17 2023.
+* **[Brazil’s economic challenges are again Lula’s to tackle – this time around they’re more daunting](https://theconversation.com/brazils-economic-challenges-are-again-lulas-to-tackle-this-time-around-theyre-more-daunting-197673).** (with Marc Muendler) The Conversation, Jan 30 2023.
+* **[The impact of geopolitical conflicts on trade, growth, and innovation: An illustrative simulation study](https://cepr.org/voxeu/columns/impact-geopolitical-conflicts-trade-growth-and-innovation-illustrative-simulation).** (with Eddy Bekkers) VoxEU, Mar 29 2022. 
 * **[Why Bolsa Família Works](https://semancha.com/2014/03/19/what-do-friedman-and-lula-have-in-common/).** No Se Mancha, 19 mar 2014. 
 * **[The Country of Jabuticabas: Brazil's Path Towards Human Development](https://semancha.com/2013/09/15/the-country-of-jabuticabas-brazils-path-towards-human-development/).** No Se Mancha, 15 sep 2013. 
 * **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
