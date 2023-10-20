@@ -25,7 +25,7 @@ article](https://browse.arxiv.org/pdf/2203.12173.pdf); [VoxEU Column](https://vo
  
 - **Dynamic Adjustment to Trade Shocks** (with Junyuan Chen, Marc Muendler, and Fabian Trottner) 
   - (Trade, Supply Chain, Cycle Adjustment, Structural Modeling) Innovations and disruptions to global supply chains lead to adjustments in the network of international trade. However, these adjustments do not happen without friction. Empirical estimates of the trade elasticity in the short run are about half as much as those in the long run, suggesting substantial convexities in the adjustment to trade shocks. We develop a tractable framework that provides the microfoundations for frictional dynamic adjustment to trade shocks and rationalizes the reduced-form estimates of a time-varying trade elasticity. The model features sluggish adjustment of sourcing decisions, time-varying trade elasticities, and nests the Eaton-Kortum model as a limiting long-run scenario. We calibrate the model using well-identified estimates of the trade elasticity at different horizons and use it to quantify the welfare impact of the 2018 US-China trade war. Frictional sources considerably exacerbate losses of the trade war, with cumulative consumption-equivalent welfare losses being 300% larger in the short run and 70% larger in the long run. 
-  - _Draft coming soon_.
+  - [Draft article](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/ChenGoesMuendlerTrottner.pdf?raw=true).
   - Presented at _UCSD Faculty Seminar_ and the  _European Central Bank's Trade Seminar_.
 
 
