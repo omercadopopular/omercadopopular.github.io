@@ -10,7 +10,7 @@ redirect_from:
 
 I am a spatial economist whose research agenda lies on the intersection between international trade and macroeconomics; I describe it as “Dynamic Trade and Spatial Macroeconomics.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, trade, and inequality. 
 
-**I am on the job market in the academic year 2023-2024, and I am available for interviews.**
+**I am on the job market in the academic year 2023-2024 and I am available for interviews.**
 
 **You can find my [CV here](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/CV-GoesC.pdf?raw=true)**. 
 
