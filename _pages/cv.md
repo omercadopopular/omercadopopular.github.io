@@ -11,5 +11,5 @@ redirect_from:
 
 Academic Curriculum Vitae
 ======
-<embed src="https://github.com/omercadopopular/omercadopopular.github.io/raw/master/files/CV-GoesC.pdf" type="application/pdf">
+<embed src="https://github.com/omercadopopular/omercadopopular.github.io/raw/master/files/GoesC-CV-Jan24" type="application/pdf">
 
