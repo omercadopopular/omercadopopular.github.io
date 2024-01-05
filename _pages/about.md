@@ -12,7 +12,7 @@ I am an economist whose research agenda lies on the intersection between interna
 
 **I am on the job market in the academic year 2023-2024 and I am available for interviews.**
 
-**You can find my [CV here](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/CV-GoesC-Dec.pdf?raw=true)**. 
+**You can find my [CV here](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-CV-Jan24?raw=true)**. 
 
 Job Market Paper
 ======
