@@ -19,7 +19,7 @@ I was the Instructor of UCSD's Summer Session II First Sequence of Intermediate 
 7. [The Solow Model: Experiments](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%207.pdf?raw=true)
 8. [How do Firms Make Investment Decisions?](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%208.pdf?raw=true)
 9. [Midterm Review](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%209.pdf?raw=true)
-10. [The Economics of Ideas and Increasing Returns](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%210.pdf?raw=true)
+10. [The Economics of Ideas and Increasing Returns](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2010.pdf?raw=true)
 11. [The Romer Model: Ideas and Labor](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2011.pdf?raw=true)
 12. [The Combined Romer and Solow Model: Ideas, Labor and Capital](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2012.pdf?raw=true)
 13. [A Model of a Competitive Labor Markets](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/econ110a/Lecture%2013.pdf?raw=true)
