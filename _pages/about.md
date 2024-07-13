@@ -30,7 +30,7 @@ article](https://browse.arxiv.org/pdf/2203.12173.pdf); [VoxEU Column](https://vo
 
 Bio
 ======
-Carlos Góes is Visiting Assistant Professor (2024-27) at [Pomona College](https://www.pomona.edu/about), a premier liberal arts college located in Claremont, California. Aside from academia, he has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Trade Organization, the World Bank, and U.S. think tanks. 
+Aside from academia, Carlos has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Trade Organization, the World Bank, and U.S. think tanks. 
 
 His work has been featured in global outlets such as the Economist, the Wall Street Journal, the Financial Times, El País, and Le Monde. 
 
