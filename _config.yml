@@ -83,11 +83,11 @@ author:
   name             : "Carlos Góes"
   avatar           : "bio-photo.jpg"
   bio              : "Trade & Macro"
-  location         : "BSB/DCA/SLZ/SAN" 
+  location         : "Washington, DC" 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KBw41t4AAAAJ&hl=en&authuser=1"
-  email            : "carlos.goes@pomona.edu"
+  email            : "cbezerradegoes@ifc.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "omercadopopular/cgoes"
   google_plus      :
   keybase          :
   instagram        : 
