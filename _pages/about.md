@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist whose research agenda lies on the intersection between international trade and macroeconomics; I describe it as “Dynamic Trade and Spatial Macroeconomics.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, trade, and inequality. I am an economic researcher at the World Bank Group.
+I am an economist whose research agenda lies on the intersection between international trade and macroeconomics; I describe it as “Dynamic Trade and Spatial Macroeconomics.” I am embedding the dynamics of growth emphasized in macroeconomics into canonical trade models and incorporating the spatial dimension emphasized in trade models into macroeconomics. In my empirical work, I combine well-identified partial equilibrium effects using spatial data to inform estimates of general equilibrium effects. I use spatial data to answer questions about growth, trade, and inequality. I am an economic researcher at the [World Bank Group](https://www.ifc.org/) and a Visiting Scholar at the [Globalization Prosperity Lab of UC San Diego](https://gplab.ucsd.edu/).
 
 Recent Working Papers
 ======
@@ -31,7 +31,7 @@ article](https://browse.arxiv.org/pdf/2203.12173.pdf); [VoxEU Column](https://vo
 
 Bio
 ======
-Aside from academia, Carlos has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Trade Organization, the World Bank, and U.S. think tanks. 
+Aside from academia, Carlos has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Bank, and U.S. think tanks. 
 
 His work has been featured in global outlets such as the Economist, the Wall Street Journal, the Financial Times, El País, and Le Monde. 
 
