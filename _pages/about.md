@@ -17,7 +17,7 @@ Recent Working Papers
   - [Draft article](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/GoesC-JMP.pdf?raw=true).
   - Winner of the [WTO Essay Award for Young Economists](https://www.wto.org/english/res_e/reser_e/essaywards_e.htm).
   - Listen to the NotebookLM's AI-generated podcast on this paper:
-  ![podcast](https://github.com/omercadopopular/omercadopopular.github.io/raw/master/files/goes-notebooklm-podcast.mp3?raw=true)
+  ![podcast](https://github.com/omercadopopular/omercadopopular.github.io/raw/master/files/goes-notebooklm-podcast.mp3)
   - Presentations (past or scheduled): _Latin American Meeting of the Econometric Society, 2024_; _European Trade Study Group, 2024 (Plenary Session)_; _Midwest International Trade Meeting, July 2024  (Plenary Session)_; _Elon University_; _Texas A&M University_; _São Paulo School of Economics - Fundação Getúlio Vargas_;  _University of Chile_; _UCSD Macroeconomics Seminar_; _2023 Southern California Graduate Conference in Applied Economics_; _UCSD Global Economy Seminar_.
 
 - **The Impact of Geopolitical Conflicts on Trade, Growth, and Innovation** (with Eddy Bekkers). 
