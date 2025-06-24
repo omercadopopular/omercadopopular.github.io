@@ -99,7 +99,23 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
-* **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** O Globo, 03 dez 2022. 
+* **[Como as economias morrem.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/08/como-as-economias-morrem.ghtml)** O Globo, 10 ago 2024  
+* **[Calvário dos cartórios.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/07/calvario-dos-cartorios.ghtml)** O Globo, 13 jul 2024  
+* **[A ‘taxa das blusinhas’ no país da desigualdade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/06/a-taxa-das-blusinhas-no-pais-da-desigualdade.ghtml)** O Globo, 15 jun 2024  
+* **[Lições de uma tragédia climática.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/05/licoes-de-uma-tragedia-climatica.ghtml)** O Globo, 18 mai 2024  
+* **[A economia da guerra às drogas.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/04/a-economia-da-guerra-as-drogas.ghtml)** O Globo, 20 abr 2024  
+* **[O fim do milagre chinês?](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/03/o-fim-do-milagre-chines.ghtml)** O Globo, 23 mar 2024  
+* **[A crise humanitária que existe ao lado.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/02/a-crise-humanitaria-que-existe-ao-lado.ghtml)** O Globo, 24 fev 2024  
+* **[O que a economia diz sobre a nova política industrial do governo.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/01/o-que-a-economia-diz-sobre-a-nova-politica-industrial-do-governo.ghtml)** O Globo, 27 jan 2024  
+* **[A desoneração da folha de pagamento vale a pena?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml)** O Globo, 02 dez 2023  
+* **[A Argentina à beira do caos.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/11/a-argentina-a-beira-do-caos.ghtml)** O Globo, 04 nov 2023  
+* **[É proibido tropeçar.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/10/e-proibido-tropecar.ghtml)** O Globo, 07 out 2023  
+* **[Por que a Argentina discute a dolarização?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/09/por-que-a-argentina-discute-a-dolarizacao.ghtml)** O Globo, 09 set 2023  
+* **[Imigração e nosso destino demográfico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/07/imigracao-e-nosso-destino-demografico.ghtml)** O Globo, 15 jul 2023  
+* **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passo-e-do-futuro.ghtml)** O Globo, 20 mai 2023  
+* **[Lula e o xadrez geoeconômico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/04/lula-e-o-xadrez-geoeconomico.ghtml)** O Globo, 22 abr 2023  
+* **[Risco fiscal no país do real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/03/risco-fiscal-no-pais-do-real.ghtml)** O Globo, 25 mar 2023  
+* **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** O Globo, 03 dec 2022. 
 * **[Herança maldita.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/heranca-maldita.ghtml)** O Globo, 19 nov 2022. 
 * **[Polarizados em dois Brasis?](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/polarizados-em-dois-brasis.ghtml)** O Globo, 05 nov 2022. 
 * **[Liberal da Conceição.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/liberal-da-conceicao.ghtml)** O Globo, 22 oct 2022. 
