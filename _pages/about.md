@@ -35,8 +35,8 @@ article](https://browse.arxiv.org/pdf/2203.12173.pdf); [VoxEU Column](https://vo
 
 Bio
 ======
-Aside from academia, Carlos has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Bank, and U.S. think tanks. 
+Carlos has previously worked as Senior Economic Advisor at the Office of the President of Brazil and as a researcher at the International Monetary Fund, the World Bank, and U.S. think tanks. 
 
-His work has been featured in global outlets such as the Economist, the Wall Street Journal, the Financial Times, El País, and Le Monde. 
+His work has been featured in global outlets such as the Economist, the Wall Street Journal, the Financial Times, El País, and Le Monde. He won the [WTO Award for Young Economists in 2024](https://www.wto.org/english/news_e/news24_e/essay_12sep24_e.htm), which chooses the best research on trade by recent PhD graduates.
 
 Góes is an alumnus of UC San Diego (Ph.D.), Johns Hopkins SAIS (MA), and the University of Brasilia (BA). A coding enthusiast, he works in Python, Stata, Eviews, LaTeX, R, Julia, and Matlab. 
