@@ -11,7 +11,7 @@ I teach international trade to GWU's undergraduate students. The course covers t
 [Syllabus, GWU Economics, FA25](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Syllabus.pdf?raw=true)
 
 **Slides**:
-0. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
+1. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
 
 **Handouts**:
 1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
