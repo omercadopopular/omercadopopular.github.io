@@ -11,10 +11,15 @@ I teach international trade to GWU's undergraduate students. The course covers t
 [Syllabus, GWU Economics, FA25](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Syllabus.pdf?raw=true)
 
 **Slides**:
-1. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
+1. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)]
+2. [The Principle of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture1.pdf?raw=true)
+3. [Intro to Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture2.pdf?raw=true)
 
 **Handouts**:
 1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
+
+**Data Notebooks**:
+1. [Intro to Python](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/data-lab-1-intro-to-python.ipynb)
 
 # Long Run Macroeconomics, Econ 110A, Undergraduate (UC San Diego)
 
