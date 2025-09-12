@@ -15,6 +15,7 @@ I teach international trade to GWU's undergraduate students. The course covers t
 2. [The Principle of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture1.pdf?raw=true)
 3. [Intro to Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture2.pdf?raw=true)
 4. [Classical Ricardian Trade in General Equilibrium - Part I](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture3.pdf?raw=true)
+5. [Classical Ricardian Trade in General Equilibrium - Part II](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture4.pdf?raw=true)
 
 **Handouts**:
 1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
