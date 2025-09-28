@@ -11,20 +11,20 @@ I teach international trade to GWU's undergraduate students. The course covers t
 [Syllabus, GWU Economics, FA25](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Syllabus.pdf?raw=true)
 
 **Slides**:
-0. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
-1. [The Principle of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture1.pdf?raw=true)
-2. [Intro to Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture2.pdf?raw=true)
-3. [Classical Ricardian Trade in General Equilibrium - Part I](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture3.pdf?raw=true)
-4. [Classical Ricardian Trade in General Equilibrium - Part II](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture4.pdf?raw=true)
-5. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%205.pdf?raw=true)
-6. [Empirics of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%206.pdf?raw=true)
-7. [Production in the Short and the Long Run](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%207.pdf?raw=true)
+1. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
+2. [The Principle of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture1.pdf?raw=true)
+3. [Intro to Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture2.pdf?raw=true)
+4. [Classical Ricardian Trade in General Equilibrium - Part I](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture3.pdf?raw=true)
+5. [Classical Ricardian Trade in General Equilibrium - Part II](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture4.pdf?raw=true)
+6. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%205.pdf?raw=true)
+7. [Empirics of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%206.pdf?raw=true)
+8. [Production in the Short and the Long Run](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%207.pdf?raw=true)
 
 **Handouts**:
-0. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
-1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
-2. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout2.pdf?raw=true)
-3. [Specific Factors Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout3.pdf?raw=true)
+1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
+2. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
+3. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout2.pdf?raw=true)
+4. [Specific Factors Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout3.pdf?raw=true)
 
 **Data Notebooks**:
 1. [Intro to Python](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/data-lab-1-intro-to-python.ipynb)
