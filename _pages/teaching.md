@@ -21,7 +21,7 @@ I teach international trade to GWU's undergraduate students. The course covers t
 8. [Production in the Short and the Long Run](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%207.pdf?raw=true)
 
 **Handouts**:
-1. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
+1. [Mathematical Review](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
 2. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
 3. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout2.pdf?raw=true)
 4. [Specific Factors Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout3.pdf?raw=true)
