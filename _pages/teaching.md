@@ -8,7 +8,7 @@ author_profile: true
 
 I teach international trade to GWU's undergraduate students. The course covers the following models: Classic Ricardian Model (two countries, two goods); Ricardian Trade with Multiple Goods (two countries, many goods); Specific Factors Model; Hecksher-Ohlin Model; Krugman Model; Melitz Model. It loosely follows the textbook International Economics by Krugman, Obstfeld, & Melitz; but it includes handouts that go deeper into the derivations of the model. My teaching material was somewhat based on slides by  [Marc Muendler](https://econweb.ucsd.edu/muendler/html/teach.html) (UCSD, who was my PhD advisor); [Treb Allen](https://sites.google.com/site/treballen/undergraduate-trade?authuser=0) (Dartmouth College); and [Dave Donaldson](https://dave-donaldson.com/2018-fall-international-economics-mit-14-581/) (MIT) .
 
-[Syllabus, GWU Economics, FA25](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Syllabus.pdf?raw=true)
+[Syllabus, GWU Economics, FA25](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/_syllabus_update.pdf?raw=true)
 
 **Slides**:
 1. [Intro & Preliminaries](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture0.pdf?raw=true)
@@ -19,16 +19,25 @@ I teach international trade to GWU's undergraduate students. The course covers t
 6. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%205.pdf?raw=true)
 7. [Empirics of Comparative Advantage](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%206.pdf?raw=true)
 8. [Production in the Short and the Long Run](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%207.pdf?raw=true)
+9. [Specific Factors Model (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture8.pdf?raw=true)
+10. [Specific Factors Model (ii)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture9.pdf?raw=true)
+11. [The Political Economy of Trade Policy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture10.pdf?raw=true)
+12. [The Hecksher Ohlin Model (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture11.pdf?raw=true)
+13. [The Hecksher Ohlin Model (ii)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture12.pdf?raw=true)
+14. [The Standard Trade Model, Gravity, and Welfare](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture13.pdf?raw=true)
+
 
 **Handouts**:
 1. [Mathematical Review](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
 2. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
 3. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout2.pdf?raw=true)
 4. [Specific Factors Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout3.pdf?raw=true)
+5. [Hecksher-Ohlin Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout4.pdf?raw=true)
 
 **Data Notebooks**:
 1. [Intro to Python](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/data-lab-1-intro-to-python.ipynb)
 2. [Intro to pandas; trade with data](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/data-lab-2-trade-and-growth'.ipynb)
+3. [Solving the Specific Factors Model](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/SFM.ipynb)
 
 # Long Run Macroeconomics, Econ 110A, Undergraduate (UC San Diego)
 
