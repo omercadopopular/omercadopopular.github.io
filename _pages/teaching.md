@@ -29,16 +29,13 @@ I teach international trade to GWU's undergraduate students. The course covers t
 16. [The Krugman Model (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2015.pdf?raw=true)
 17. [The Krugman Model (ii)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2014.pdf?raw=true)
 
-
-    
-
-
 **Handouts**:
 1. [Mathematical Review](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout0.pdf?raw=true)
 2. [Classical Ricardian Trade](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout1.pdf?raw=true)
 3. [Ricardian Trade with Multiple Goods](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout2.pdf?raw=true)
 4. [Specific Factors Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout3.pdf?raw=true)
 5. [Hecksher-Ohlin Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout4.pdf?raw=true)
+6. [Krugman Model](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Handout5.pdf?raw=true)
 
 **Data Notebooks**:
 1. [Intro to Python](https://github.com/omercadopopular/trade-undergrad/blob/main/scr/data-lab-1-intro-to-python.ipynb)
