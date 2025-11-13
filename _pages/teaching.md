@@ -24,7 +24,13 @@ I teach international trade to GWU's undergraduate students. The course covers t
 11. [The Political Economy of Trade Policy](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture10.pdf?raw=true)
 12. [The Hecksher Ohlin Model (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture11.pdf?raw=true)
 13. [The Hecksher Ohlin Model (ii)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture12.pdf?raw=true)
-14. [The Standard Trade Model, Gravity, and Welfare](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture13.pdf?raw=true)
+14. [The Standard Trade Model, Gravity, and Welfare](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2013.pdf?raw=true)
+15. [Economies of Scale](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2014.pdf?raw=true)
+16. [The Krugman Model (i)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2015.pdf?raw=true)
+17. [The Krugman Model (ii)](https://github.com/omercadopopular/omercadopopular.github.io/blob/master/files/trade-undergrad/Lecture%2016.pdf?raw=true)
+
+
+    
 
 
 **Handouts**:
