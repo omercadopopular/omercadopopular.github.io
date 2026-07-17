@@ -12,6 +12,8 @@ I am an economist whose research agenda lies on the intersection between interna
 
 I am an economist at [the International Finance Corporation (a member of the World Bank Group)](https://www.ifc.org/), a Professorial Lecturer at the [George Washington University's Department of Economics](https://economics.columbian.gwu.edu/), and a Partner Scholar at the [Globalization and Prosperity Lab of UC San Diego](https://gplab.ucsd.edu/).
 
+I love football (soccer) and have created a simple webapp that allows you to compare different players and [Choose your GOAT](https://www.carlosgoes.com/chooseyourgoat/).
+
 Recent Working Papers
 ======
 - **Trade, Growth, and Product Innovation**.
