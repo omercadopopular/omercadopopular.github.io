@@ -99,7 +99,7 @@ author_profile: true
 * **[The Gringo's Guide to Demonstrations in Brazil](https://semancha.com/2013/06/22/the-gringos-guide-to-demonstrations-in-brazil/).** No Se Mancha, 22 jun 2013.
 
 ## Portuguese
-* **[Como as economias morrem.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/08/como-as-economias-morrem.ghtml)** O Globo, 10 ago 2024  
+* **[Como as economias morrem.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/08/como-as-economias-morrem.ghtml)** <small>[Archive](/media/archive/oglobo/como-as-economias-morrem/)</small> O Globo, 10 ago 2024  
 * **[Calvário dos cartórios.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/07/calvario-dos-cartorios.ghtml)** O Globo, 13 jul 2024  
 * **[A ‘taxa das blusinhas’ no país da desigualdade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/06/a-taxa-das-blusinhas-no-pais-da-desigualdade.ghtml)** O Globo, 15 jun 2024  
 * **[Lições de uma tragédia climática.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/05/licoes-de-uma-tragedia-climatica.ghtml)** O Globo, 18 mai 2024  
@@ -114,7 +114,7 @@ author_profile: true
 * **[Estatísticas e democracia.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/08/estatisticas-e-democracia.ghtml)** O Globo, 12 ago 2023  
 * **[Imigração e nosso destino demográfico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/07/imigracao-e-nosso-destino-demografico.ghtml)** O Globo, 15 jul 2023  
 * **[O que Abel Ferreira pode ensinar sobre comércio internacional.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/06/o-que-abel-ferreira-pode-ensinar-sobre-comercio-internacional.ghtml)** O Globo, jun 2023  
-* **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passado-e-do-futuro.ghtml)** O Globo, 20 mai 2023  
+* **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passado-e-do-futuro.ghtml)** <small>[Archive](/media/archive/oglobo/politica-industrial-do-passado-e-do-futuro/)</small> O Globo, 20 mai 2023  
 * **[Lula e o xadrez geoeconômico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/04/lula-e-o-xadrez-geoeconomico.ghtml)** O Globo, 22 abr 2023  
 * **[Risco fiscal no país do real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/03/risco-fiscal-no-pais-do-real.ghtml)** O Globo, 25 mar 2023  
 * **[Juro e crescimento.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/02/juro-e-crescimento.ghtml)** O Globo, fev 2023  
@@ -144,7 +144,7 @@ author_profile: true
 * **[A importância do autoteste de Covid.](https://oglobo.globo.com/economia/a-importancia-do-autoteste-de-covid-25355275)** O Globo, 15 jan 2022. 
 * **[A recessão das mulheres.](https://oglobo.globo.com/economia/a-recessao-das-mulheres-25324496)** O Globo, 18 dec 2021. 
 * **[Ciência e política pública.](https://oglobo.globo.com/economia/ciencia-politica-publica-1-25305681)** O Globo, 04 dec 2021. 
-* **[Instituições (sanitárias) importam.](https://oglobo.globo.com/economia/instituicoes-sanitarias-importam-25284274)** O Globo, 20 nov 2021. 
+* **[Instituições (sanitárias) importam.](https://oglobo.globo.com/economia/instituicoes-sanitarias-importam-25284274)** <small>[Archive](/media/archive/oglobo/instituicoes-sanitarias-importam-25284274/)</small> O Globo, 20 nov 2021. 
 * **[Bolsa Família é o Brasil que deu certo.](https://oglobo.globo.com/economia/bolsa-familia-o-brasil-que-deu-certo-1-25265926)** O Globo, 06 nov 2021. 
 * **[Um obituário do teto de gastos.](https://oglobo.globo.com/economia/um-obituario-do-teto-de-gastos-25248498)** O Globo, 23 oct 2021. 
 * **[Conflitos de interesse.](https://oglobo.globo.com/economia/conflitos-de-interesse-25230688)** O Globo, 09 oct 2021. 
@@ -154,7 +154,7 @@ author_profile: true
 * **[A relevância da ciência social.](https://oglobo.globo.com/economia/a-relevancia-da-ciencia-social-1-25154594)** O Globo, 14 aug 2021. 
 * **[Olimpíada e Copa no Brasil valeram a pena?](https://oglobo.globo.com/economia/olimpiada-copa-no-brasil-valeram-pena-25134455)** O Globo, 31 jul 2021. 
 * **[Embargo brasileiro.](https://oglobo.globo.com/economia/embargo-brasileiro-25114232)** O Globo, 17 jul 2021. 
-* **[Lucros e dividendos.](https://oglobo.globo.com/economia/lucros-dividendos-1-25088443)** O Globo, 03 jul 2021. 
+* **[Lucros e dividendos.](https://oglobo.globo.com/economia/lucros-dividendos-1-25088443)** <small>[Archive](/media/archive/oglobo/lucros-dividendos-1-25088443/)</small> O Globo, 03 jul 2021. 
 * **[Reformas e nossa circunstância.](https://oglobo.globo.com/economia/reformas-nossa-circunstancia-25068595)** O Globo, 19 jun 2021. 
 * **[Vacina como investimento.](https://oglobo.globo.com/economia/vacina-como-investimento-25048326)** O Globo, 05 jun 2021. 
 * **[O que Gil do Vigor tem para nos ensinar.](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** O Globo, 21 may 2021. 
