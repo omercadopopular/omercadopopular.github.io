@@ -100,71 +100,71 @@ author_profile: true
 
 ## Portuguese
 * **[Como as economias morrem.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/08/como-as-economias-morrem.ghtml)** <small>[Archive](/media/archive/oglobo/como-as-economias-morrem/)</small> O Globo, 10 ago 2024  
-* **[Calvário dos cartórios.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/07/calvario-dos-cartorios.ghtml)** O Globo, 13 jul 2024  
-* **[A ‘taxa das blusinhas’ no país da desigualdade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/06/a-taxa-das-blusinhas-no-pais-da-desigualdade.ghtml)** O Globo, 15 jun 2024  
-* **[Lições de uma tragédia climática.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/05/licoes-de-uma-tragedia-climatica.ghtml)** O Globo, 18 mai 2024  
-* **[A economia da guerra às drogas.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/04/a-economia-da-guerra-as-drogas.ghtml)** O Globo, 20 abr 2024  
-* **[O fim do milagre chinês?](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/03/o-fim-do-milagre-chines.ghtml)** O Globo, 23 mar 2024  
-* **[A crise humanitária que existe ao lado.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/02/a-crise-humanitaria-que-existe-ao-lado.ghtml)** O Globo, 24 fev 2024  
-* **[O que a economia diz sobre a nova política industrial do governo.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/01/o-que-a-economia-diz-sobre-a-nova-politica-industrial-do-governo.ghtml)** O Globo, 27 jan 2024  
-* **[A desoneração da folha de pagamento vale a pena?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml)** O Globo, 02 dez 2023  
-* **[A Argentina à beira do caos.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/11/a-argentina-a-beira-do-caos.ghtml)** O Globo, 04 nov 2023  
-* **[É proibido tropeçar.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/10/e-proibido-tropecar.ghtml)** O Globo, 07 out 2023  
-* **[Por que a Argentina discute a dolarização?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/09/por-que-a-argentina-discute-a-dolarizacao.ghtml)** O Globo, 09 set 2023  
-* **[Estatísticas e democracia.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/08/estatisticas-e-democracia.ghtml)** O Globo, 12 ago 2023  
-* **[Imigração e nosso destino demográfico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/07/imigracao-e-nosso-destino-demografico.ghtml)** O Globo, 15 jul 2023  
-* **[O que Abel Ferreira pode ensinar sobre comércio internacional.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/06/o-que-abel-ferreira-pode-ensinar-sobre-comercio-internacional.ghtml)** O Globo, jun 2023  
+* **[Calvário dos cartórios.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/07/calvario-dos-cartorios.ghtml)** <small>[Archive](/media/archive/oglobo/calvario-dos-cartorios/)</small> O Globo, 13 jul 2024  
+* **[A ‘taxa das blusinhas’ no país da desigualdade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/06/a-taxa-das-blusinhas-no-pais-da-desigualdade.ghtml)** <small>[Archive](/media/archive/oglobo/a-taxa-das-blusinhas-no-pais-da-desigualdade/)</small> O Globo, 15 jun 2024  
+* **[Lições de uma tragédia climática.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/05/licoes-de-uma-tragedia-climatica.ghtml)** <small>[Archive](/media/archive/oglobo/licoes-de-uma-tragedia-climatica/)</small> O Globo, 18 mai 2024  
+* **[A economia da guerra às drogas.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/04/a-economia-da-guerra-as-drogas.ghtml)** <small>[Archive](/media/archive/oglobo/a-economia-da-guerra-as-drogas/)</small> O Globo, 20 abr 2024  
+* **[O fim do milagre chinês?](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/03/o-fim-do-milagre-chines.ghtml)** <small>[Archive](/media/archive/oglobo/o-fim-do-milagre-chines/)</small> O Globo, 23 mar 2024  
+* **[A crise humanitária que existe ao lado.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/02/a-crise-humanitaria-que-existe-ao-lado.ghtml)** <small>[Archive](/media/archive/oglobo/a-crise-humanitaria-que-existe-ao-lado/)</small> O Globo, 24 fev 2024  
+* **[O que a economia diz sobre a nova política industrial do governo.](https://oglobo.globo.com/economia/carlos-goes/coluna/2024/01/o-que-a-economia-diz-sobre-a-nova-politica-industrial-do-governo.ghtml)** <small>[Archive](/media/archive/oglobo/o-que-a-economia-diz-sobre-a-nova-politica-industrial-do-governo/)</small> O Globo, 27 jan 2024  
+* **[A desoneração da folha de pagamento vale a pena?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml)** <small>[Archive](/media/archive/oglobo/a-desoneracao-da-folha-de-pagamento-vale-a-pena/)</small> O Globo, 02 dez 2023  
+* **[A Argentina à beira do caos.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/11/a-argentina-a-beira-do-caos.ghtml)** <small>[Archive](/media/archive/oglobo/a-argentina-a-beira-do-caos/)</small> O Globo, 04 nov 2023  
+* **[É proibido tropeçar.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/10/e-proibido-tropecar.ghtml)** <small>[Archive](/media/archive/oglobo/e-proibido-tropecar/)</small> O Globo, 07 out 2023  
+* **[Por que a Argentina discute a dolarização?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/09/por-que-a-argentina-discute-a-dolarizacao.ghtml)** <small>[Archive](/media/archive/oglobo/por-que-a-argentina-discute-a-dolarizacao/)</small> O Globo, 09 set 2023  
+* **[Estatísticas e democracia.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/08/estatisticas-e-democracia.ghtml)** <small>[Archive](/media/archive/oglobo/estatisticas-e-democracia/)</small> O Globo, 12 ago 2023  
+* **[Imigração e nosso destino demográfico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/07/imigracao-e-nosso-destino-demografico.ghtml)** <small>[Archive](/media/archive/oglobo/imigracao-e-nosso-destino-demografico/)</small> O Globo, 15 jul 2023  
+* **[O que Abel Ferreira pode ensinar sobre comércio internacional.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/06/o-que-abel-ferreira-pode-ensinar-sobre-comercio-internacional.ghtml)** <small>[Archive](/media/archive/oglobo/o-que-abel-ferreira-pode-ensinar-sobre-comercio-internacional/)</small> O Globo, jun 2023  
 * **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passado-e-do-futuro.ghtml)** <small>[Archive](/media/archive/oglobo/politica-industrial-do-passado-e-do-futuro/)</small> O Globo, 20 mai 2023  
-* **[Lula e o xadrez geoeconômico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/04/lula-e-o-xadrez-geoeconomico.ghtml)** O Globo, 22 abr 2023  
-* **[Risco fiscal no país do real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/03/risco-fiscal-no-pais-do-real.ghtml)** O Globo, 25 mar 2023  
-* **[Juro e crescimento.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/02/juro-e-crescimento.ghtml)** O Globo, fev 2023  
-* **[O Mercosul real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/o-mercosul-real.ghtml)** O Globo, jan 2023  
-* **[Os impactos econômicos da radicalização política.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/os-impactos-economicos-da-radicalizacao-politica.ghtml)** O Globo, 14 jan 2023  
-* **[Eu nasci no país de Pelé.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/eu-nasci-no-pais-de-pele.ghtml)** O Globo, dez 2022  
-* **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** O Globo, 03 dec 2022. 
-* **[Herança maldita.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/heranca-maldita.ghtml)** O Globo, 19 nov 2022. 
-* **[Polarizados em dois Brasis?](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/polarizados-em-dois-brasis.ghtml)** O Globo, 05 nov 2022. 
-* **[Liberal da Conceição.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/liberal-da-conceicao.ghtml)** O Globo, 22 oct 2022. 
-* **[Limitando o poder presidencial.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/limitando-o-poder-presidencial.ghtml)** O Globo, 08 oct 2022. 
-* **[O presidente antiliberal.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/o-presidente-antiliberal.ghtml)** O Globo, 24 sep 2022. 
-* **[Um otimista no bicentenário.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** O Globo, 10 sep 2022. 
-* **[O capital social.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-capital-social.ghtml)** O Globo, 27 ago 2022. 
-* **[O imposto maternidade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-imposto-maternidade.ghtml)** O Globo, 18 ago  2022. 
-* **[O 'bolsochavismo'.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-bolsochavismo.ghtml)** O Globo, 30 jul 2022. 
-* **[Geração Zombada.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/geracao-zombada-pelos-erros-de-gestao-dos-politicos-brasileiros.ghtml)** O Globo, 16 jul 2022. 
-* **[O país tornou-se uma grande Sucupira.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-pais-tornou-se-uma-grande-sucupira.ghtml)** O Globo, 02 jul 2022. 
-* **[O bandido estacionado.](https://oglobo.globo.com/economia/o-bandido-estacionado-25522620)** O Globo, 04 jun 2022. 
-* **[Segurança Pública e Ciência.](https://oglobo.globo.com/economia/seguranca-publica-ciencia-25502835)** O Globo, 07 may 2022. 
-* **[O multiplicador do auxílio.](https://oglobo.globo.com/economia/o-multiplicador-de-auxilio-1-25486163)** O Globo, 23 apr 2022. 
-* **[Petrobrás: presente, passado e futuro.](https://oglobo.globo.com/economia/petrobras-passado-presente-futuro-25469042)** O Globo, 9 apr 2022. 
-* **[Mamãe, Falhei.](https://oglobo.globo.com/economia/mamae-falhei-25429522)** O Globo, 12 mar 2022. 
-* **[Funcionalismo na década perdida.](https://oglobo.globo.com/economia/funcionalismo-na-decada-perdida-25411425)** O Globo, 26 feb 2022. 
-* **[Brasil não é mais um país de imigrantes.](https://oglobo.globo.com/economia/brasil-nao-mais-um-pais-de-imigrantes-25391280)** O Globo, 12 feb 2022. 
-* **[A loteria do nascimento determina o tamanho de nossos sonhos.](https://oglobo.globo.com/economia/a-loteria-do-nascimento-determina-tamanho-de-nossos-sonhos-25372215)** O Globo, 29 jan 2022. 
-* **[A importância do autoteste de Covid.](https://oglobo.globo.com/economia/a-importancia-do-autoteste-de-covid-25355275)** O Globo, 15 jan 2022. 
-* **[A recessão das mulheres.](https://oglobo.globo.com/economia/a-recessao-das-mulheres-25324496)** O Globo, 18 dec 2021. 
-* **[Ciência e política pública.](https://oglobo.globo.com/economia/ciencia-politica-publica-1-25305681)** O Globo, 04 dec 2021. 
+* **[Lula e o xadrez geoeconômico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/04/lula-e-o-xadrez-geoeconomico.ghtml)** <small>[Archive](/media/archive/oglobo/lula-e-o-xadrez-geoeconomico/)</small> O Globo, 22 abr 2023  
+* **[Risco fiscal no país do real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/03/risco-fiscal-no-pais-do-real.ghtml)** <small>[Archive](/media/archive/oglobo/risco-fiscal-no-pais-do-real/)</small> O Globo, 25 mar 2023  
+* **[Juro e crescimento.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/02/juro-e-crescimento.ghtml)** <small>[Archive](/media/archive/oglobo/juro-e-crescimento/)</small> O Globo, fev 2023  
+* **[O Mercosul real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/o-mercosul-real.ghtml)** <small>[Archive](/media/archive/oglobo/o-mercosul-real/)</small> O Globo, jan 2023  
+* **[Os impactos econômicos da radicalização política.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/os-impactos-economicos-da-radicalizacao-politica.ghtml)** <small>[Archive](/media/archive/oglobo/os-impactos-economicos-da-radicalizacao-politica/)</small> O Globo, 14 jan 2023  
+* **[Eu nasci no país de Pelé.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/eu-nasci-no-pais-de-pele.ghtml)** <small>[Archive](/media/archive/oglobo/eu-nasci-no-pais-de-pele/)</small> O Globo, dez 2022  
+* **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** <small>[Archive](/media/archive/oglobo/desigualdade-que-vem-do-berco/)</small> O Globo, 03 dec 2022. 
+* **[Herança maldita.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/heranca-maldita.ghtml)** <small>[Archive](/media/archive/oglobo/heranca-maldita/)</small> O Globo, 19 nov 2022. 
+* **[Polarizados em dois Brasis?](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/polarizados-em-dois-brasis.ghtml)** <small>[Archive](/media/archive/oglobo/polarizados-em-dois-brasis/)</small> O Globo, 05 nov 2022. 
+* **[Liberal da Conceição.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/liberal-da-conceicao.ghtml)** <small>[Archive](/media/archive/oglobo/liberal-da-conceicao/)</small> O Globo, 22 oct 2022. 
+* **[Limitando o poder presidencial.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/limitando-o-poder-presidencial.ghtml)** <small>[Archive](/media/archive/oglobo/limitando-o-poder-presidencial/)</small> O Globo, 08 oct 2022. 
+* **[O presidente antiliberal.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/o-presidente-antiliberal.ghtml)** <small>[Archive](/media/archive/oglobo/o-presidente-antiliberal/)</small> O Globo, 24 sep 2022. 
+* **[Um otimista no bicentenário.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** <small>[Archive](/media/archive/oglobo/um-otimista-no-bicentenario/)</small> O Globo, 10 sep 2022. 
+* **[O capital social.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-capital-social.ghtml)** <small>[Archive](/media/archive/oglobo/o-capital-social/)</small> O Globo, 27 ago 2022. 
+* **[O imposto maternidade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-imposto-maternidade.ghtml)** <small>[Archive](/media/archive/oglobo/o-imposto-maternidade/)</small> O Globo, 18 ago  2022. 
+* **[O 'bolsochavismo'.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-bolsochavismo.ghtml)** <small>[Archive](/media/archive/oglobo/o-bolsochavismo/)</small> O Globo, 30 jul 2022. 
+* **[Geração Zombada.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/geracao-zombada-pelos-erros-de-gestao-dos-politicos-brasileiros.ghtml)** <small>[Archive](/media/archive/oglobo/geracao-zombada-pelos-erros-de-gestao-dos-politicos-brasileiros/)</small> O Globo, 16 jul 2022. 
+* **[O país tornou-se uma grande Sucupira.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/07/o-pais-tornou-se-uma-grande-sucupira.ghtml)** <small>[Archive](/media/archive/oglobo/o-pais-tornou-se-uma-grande-sucupira/)</small> O Globo, 02 jul 2022. 
+* **[O bandido estacionado.](https://oglobo.globo.com/economia/o-bandido-estacionado-25522620)** <small>[Archive](/media/archive/oglobo/o-bandido-estacionado-25522620/)</small> O Globo, 04 jun 2022. 
+* **[Segurança Pública e Ciência.](https://oglobo.globo.com/economia/seguranca-publica-ciencia-25502835)** <small>[Archive](/media/archive/oglobo/seguranca-publica-ciencia-25502835/)</small> O Globo, 07 may 2022. 
+* **[O multiplicador do auxílio.](https://oglobo.globo.com/economia/o-multiplicador-de-auxilio-1-25486163)** <small>[Archive](/media/archive/oglobo/o-multiplicador-de-auxilio-1-25486163/)</small> O Globo, 23 apr 2022. 
+* **[Petrobrás: presente, passado e futuro.](https://oglobo.globo.com/economia/petrobras-passado-presente-futuro-25469042)** <small>[Archive](/media/archive/oglobo/petrobras-passado-presente-futuro-25469042/)</small> O Globo, 9 apr 2022. 
+* **[Mamãe, Falhei.](https://oglobo.globo.com/economia/mamae-falhei-25429522)** <small>[Archive](/media/archive/oglobo/mamae-falhei-25429522/)</small> O Globo, 12 mar 2022. 
+* **[Funcionalismo na década perdida.](https://oglobo.globo.com/economia/funcionalismo-na-decada-perdida-25411425)** <small>[Archive](/media/archive/oglobo/funcionalismo-na-decada-perdida-25411425/)</small> O Globo, 26 feb 2022. 
+* **[Brasil não é mais um país de imigrantes.](https://oglobo.globo.com/economia/brasil-nao-mais-um-pais-de-imigrantes-25391280)** <small>[Archive](/media/archive/oglobo/brasil-nao-mais-um-pais-de-imigrantes-25391280/)</small> O Globo, 12 feb 2022. 
+* **[A loteria do nascimento determina o tamanho de nossos sonhos.](https://oglobo.globo.com/economia/a-loteria-do-nascimento-determina-tamanho-de-nossos-sonhos-25372215)** <small>[Archive](/media/archive/oglobo/a-loteria-do-nascimento-determina-tamanho-de-nossos-sonhos-25372215/)</small> O Globo, 29 jan 2022. 
+* **[A importância do autoteste de Covid.](https://oglobo.globo.com/economia/a-importancia-do-autoteste-de-covid-25355275)** <small>[Archive](/media/archive/oglobo/a-importancia-do-autoteste-de-covid-25355275/)</small> O Globo, 15 jan 2022. 
+* **[A recessão das mulheres.](https://oglobo.globo.com/economia/a-recessao-das-mulheres-25324496)** <small>[Archive](/media/archive/oglobo/a-recessao-das-mulheres-25324496/)</small> O Globo, 18 dec 2021. 
+* **[Ciência e política pública.](https://oglobo.globo.com/economia/ciencia-politica-publica-1-25305681)** <small>[Archive](/media/archive/oglobo/ciencia-politica-publica-1-25305681/)</small> O Globo, 04 dec 2021. 
 * **[Instituições (sanitárias) importam.](https://oglobo.globo.com/economia/instituicoes-sanitarias-importam-25284274)** <small>[Archive](/media/archive/oglobo/instituicoes-sanitarias-importam-25284274/)</small> O Globo, 20 nov 2021. 
-* **[Bolsa Família é o Brasil que deu certo.](https://oglobo.globo.com/economia/bolsa-familia-o-brasil-que-deu-certo-1-25265926)** O Globo, 06 nov 2021. 
-* **[Um obituário do teto de gastos.](https://oglobo.globo.com/economia/um-obituario-do-teto-de-gastos-25248498)** O Globo, 23 oct 2021. 
-* **[Conflitos de interesse.](https://oglobo.globo.com/economia/conflitos-de-interesse-25230688)** O Globo, 09 oct 2021. 
-* **[Do entusiasmo com a equipe econômica à decepção.](https://oglobo.globo.com/economia/do-entusiasmo-com-equipe-economica-decepcao-25212666)** O Globo, 25 sep 2021. 
-* **[O custo Bolsonaro: entenda o efeito das atitudes do presidente na economia.](https://oglobo.globo.com/economia/o-custo-bolsonaro-entenda-efeito-das-atitudes-do-presidente-na-economia-25192962)** O Globo, 11 sep 2021. 
-* **[O projeto de Bolsonaro é um projeto de família.](https://oglobo.globo.com/economia/o-projeto-de-bolsonaro-um-projeto-de-familia-25174345)** O Globo, 28 aug 2021. 
-* **[A relevância da ciência social.](https://oglobo.globo.com/economia/a-relevancia-da-ciencia-social-1-25154594)** O Globo, 14 aug 2021. 
-* **[Olimpíada e Copa no Brasil valeram a pena?](https://oglobo.globo.com/economia/olimpiada-copa-no-brasil-valeram-pena-25134455)** O Globo, 31 jul 2021. 
-* **[Embargo brasileiro.](https://oglobo.globo.com/economia/embargo-brasileiro-25114232)** O Globo, 17 jul 2021. 
+* **[Bolsa Família é o Brasil que deu certo.](https://oglobo.globo.com/economia/bolsa-familia-o-brasil-que-deu-certo-1-25265926)** <small>[Archive](/media/archive/oglobo/bolsa-familia-o-brasil-que-deu-certo-1-25265926/)</small> O Globo, 06 nov 2021. 
+* **[Um obituário do teto de gastos.](https://oglobo.globo.com/economia/um-obituario-do-teto-de-gastos-25248498)** <small>[Archive](/media/archive/oglobo/um-obituario-do-teto-de-gastos-25248498/)</small> O Globo, 23 oct 2021. 
+* **[Conflitos de interesse.](https://oglobo.globo.com/economia/conflitos-de-interesse-25230688)** <small>[Archive](/media/archive/oglobo/conflitos-de-interesse-25230688/)</small> O Globo, 09 oct 2021. 
+* **[Do entusiasmo com a equipe econômica à decepção.](https://oglobo.globo.com/economia/do-entusiasmo-com-equipe-economica-decepcao-25212666)** <small>[Archive](/media/archive/oglobo/do-entusiasmo-com-equipe-economica-decepcao-25212666/)</small> O Globo, 25 sep 2021. 
+* **[O custo Bolsonaro: entenda o efeito das atitudes do presidente na economia.](https://oglobo.globo.com/economia/o-custo-bolsonaro-entenda-efeito-das-atitudes-do-presidente-na-economia-25192962)** <small>[Archive](/media/archive/oglobo/o-custo-bolsonaro-entenda-efeito-das-atitudes-do-presidente-na-economia-25192962/)</small> O Globo, 11 sep 2021. 
+* **[O projeto de Bolsonaro é um projeto de família.](https://oglobo.globo.com/economia/o-projeto-de-bolsonaro-um-projeto-de-familia-25174345)** <small>[Archive](/media/archive/oglobo/o-projeto-de-bolsonaro-um-projeto-de-familia-25174345/)</small> O Globo, 28 aug 2021. 
+* **[A relevância da ciência social.](https://oglobo.globo.com/economia/a-relevancia-da-ciencia-social-1-25154594)** <small>[Archive](/media/archive/oglobo/a-relevancia-da-ciencia-social-1-25154594/)</small> O Globo, 14 aug 2021. 
+* **[Olimpíada e Copa no Brasil valeram a pena?](https://oglobo.globo.com/economia/olimpiada-copa-no-brasil-valeram-pena-25134455)** <small>[Archive](/media/archive/oglobo/olimpiada-copa-no-brasil-valeram-pena-25134455/)</small> O Globo, 31 jul 2021. 
+* **[Embargo brasileiro.](https://oglobo.globo.com/economia/embargo-brasileiro-25114232)** <small>[Archive](/media/archive/oglobo/embargo-brasileiro-25114232/)</small> O Globo, 17 jul 2021. 
 * **[Lucros e dividendos.](https://oglobo.globo.com/economia/lucros-dividendos-1-25088443)** <small>[Archive](/media/archive/oglobo/lucros-dividendos-1-25088443/)</small> O Globo, 03 jul 2021. 
-* **[Reformas e nossa circunstância.](https://oglobo.globo.com/economia/reformas-nossa-circunstancia-25068595)** O Globo, 19 jun 2021. 
-* **[Vacina como investimento.](https://oglobo.globo.com/economia/vacina-como-investimento-25048326)** O Globo, 05 jun 2021. 
-* **[O que Gil do Vigor tem para nos ensinar.](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** O Globo, 21 may 2021. 
-* **[Falta de bom Censo.](https://oglobo.globo.com/economia/falta-de-bom-censo-25008688)** O Globo, 08 may 2021. 
-* **[Recuperação para quem?](https://oglobo.globo.com/economia/recuperacao-para-quem-1-24985795)** O Globo, 24 apr 2021. 
-* **[O PIB e o povo.](https://oglobo.globo.com/economia/o-pib-o-povo-24964338)** O Globo, 14 apr 2021. 
-* **[Meu herói economista.](https://oglobo.globo.com/economia/meu-heroi-economista-24943718)** O Globo, 27 mar 2021. 
-* **[Rejeitar ‘lockdown’ não vai reacender a economia.](https://oglobo.globo.com/economia/rejeitar-lockdown-nao-vai-reacender-economia-24923392)** O Globo, 13 mar 2021. 
-* **[A nova economia do salário mínimo.](https://oglobo.globo.com/economia/a-nova-economia-do-salario-minimo-24901841)** O Globo, 27 feb 2021. 
-* **[Os pobres são estratégicos.](https://oglobo.globo.com/economia/os-pobres-sao-estrategicos-24880790)** O Globo, 13 feb 2021. 
+* **[Reformas e nossa circunstância.](https://oglobo.globo.com/economia/reformas-nossa-circunstancia-25068595)** <small>[Archive](/media/archive/oglobo/reformas-nossa-circunstancia-25068595/)</small> O Globo, 19 jun 2021. 
+* **[Vacina como investimento.](https://oglobo.globo.com/economia/vacina-como-investimento-25048326)** <small>[Archive](/media/archive/oglobo/vacina-como-investimento-25048326/)</small> O Globo, 05 jun 2021. 
+* **[O que Gil do Vigor tem para nos ensinar.](https://oglobo.globo.com/economia/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279)** <small>[Archive](/media/archive/oglobo/o-que-gil-do-vigor-tem-para-nos-ensinar-25028279/)</small> O Globo, 21 may 2021. 
+* **[Falta de bom Censo.](https://oglobo.globo.com/economia/falta-de-bom-censo-25008688)** <small>[Archive](/media/archive/oglobo/falta-de-bom-censo-25008688/)</small> O Globo, 08 may 2021. 
+* **[Recuperação para quem?](https://oglobo.globo.com/economia/recuperacao-para-quem-1-24985795)** <small>[Archive](/media/archive/oglobo/recuperacao-para-quem-1-24985795/)</small> O Globo, 24 apr 2021. 
+* **[O PIB e o povo.](https://oglobo.globo.com/economia/o-pib-o-povo-24964338)** <small>[Archive](/media/archive/oglobo/o-pib-o-povo-24964338/)</small> O Globo, 14 apr 2021. 
+* **[Meu herói economista.](https://oglobo.globo.com/economia/meu-heroi-economista-24943718)** <small>[Archive](/media/archive/oglobo/meu-heroi-economista-24943718/)</small> O Globo, 27 mar 2021. 
+* **[Rejeitar ‘lockdown’ não vai reacender a economia.](https://oglobo.globo.com/economia/rejeitar-lockdown-nao-vai-reacender-economia-24923392)** <small>[Archive](/media/archive/oglobo/rejeitar-lockdown-nao-vai-reacender-economia-24923392/)</small> O Globo, 13 mar 2021. 
+* **[A nova economia do salário mínimo.](https://oglobo.globo.com/economia/a-nova-economia-do-salario-minimo-24901841)** <small>[Archive](/media/archive/oglobo/a-nova-economia-do-salario-minimo-24901841/)</small> O Globo, 27 feb 2021. 
+* **[Os pobres são estratégicos.](https://oglobo.globo.com/economia/os-pobres-sao-estrategicos-24880790)** <small>[Archive](/media/archive/oglobo/os-pobres-sao-estrategicos-24880790/)</small> O Globo, 13 feb 2021. 
 * **[Como salvar empregos para o Brasil pós-coronavírus.](https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml)** (with Ricardo Dahis). Folha de São Paulo, 29 mar 2020. 
 * **[O que economistas (não) sabem sobre o efeito dos gastos públicos.](https://www1.folha.uol.com.br/mercado/2019/10/o-que-economistas-nao-sabem-sobre-o-efeito-dos-gastos-publicos.shtml)** Folha de São Paulo, 29 out 2019. 
 * **[Quem paga os custos da Reforma da Previdência?](https://www1.folha.uol.com.br/opiniao/2019/07/quem-paga-os-custos-da-reforma-da-previdencia.shtml)** Folha de São Paulo, 24 jul 2019. 
