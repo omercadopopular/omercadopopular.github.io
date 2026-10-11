@@ -111,16 +111,22 @@ author_profile: true
 * **[A Argentina à beira do caos.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/11/a-argentina-a-beira-do-caos.ghtml)** O Globo, 04 nov 2023  
 * **[É proibido tropeçar.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/10/e-proibido-tropecar.ghtml)** O Globo, 07 out 2023  
 * **[Por que a Argentina discute a dolarização?](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/09/por-que-a-argentina-discute-a-dolarizacao.ghtml)** O Globo, 09 set 2023  
+* **[Estatísticas e democracia.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/08/estatisticas-e-democracia.ghtml)** O Globo, 12 ago 2023  
 * **[Imigração e nosso destino demográfico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/07/imigracao-e-nosso-destino-demografico.ghtml)** O Globo, 15 jul 2023  
-* **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passo-e-do-futuro.ghtml)** O Globo, 20 mai 2023  
+* **[O que Abel Ferreira pode ensinar sobre comércio internacional.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/06/o-que-abel-ferreira-pode-ensinar-sobre-comercio-internacional.ghtml)** O Globo, jun 2023  
+* **[Política industrial do passado e do futuro.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/05/politica-industrial-do-passado-e-do-futuro.ghtml)** O Globo, 20 mai 2023  
 * **[Lula e o xadrez geoeconômico.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/04/lula-e-o-xadrez-geoeconomico.ghtml)** O Globo, 22 abr 2023  
 * **[Risco fiscal no país do real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/03/risco-fiscal-no-pais-do-real.ghtml)** O Globo, 25 mar 2023  
+* **[Juro e crescimento.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/02/juro-e-crescimento.ghtml)** O Globo, fev 2023  
+* **[O Mercosul real.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/o-mercosul-real.ghtml)** O Globo, jan 2023  
+* **[Os impactos econômicos da radicalização política.](https://oglobo.globo.com/economia/carlos-goes/coluna/2023/01/os-impactos-economicos-da-radicalizacao-politica.ghtml)** O Globo, 14 jan 2023  
+* **[Eu nasci no país de Pelé.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/eu-nasci-no-pais-de-pele.ghtml)** O Globo, dez 2022  
 * **[Desigualdade que vem do berço.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/12/desigualdade-que-vem-do-berco.ghtml)** O Globo, 03 dec 2022. 
 * **[Herança maldita.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/heranca-maldita.ghtml)** O Globo, 19 nov 2022. 
 * **[Polarizados em dois Brasis?](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/11/polarizados-em-dois-brasis.ghtml)** O Globo, 05 nov 2022. 
 * **[Liberal da Conceição.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/liberal-da-conceicao.ghtml)** O Globo, 22 oct 2022. 
 * **[Limitando o poder presidencial.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/10/limitando-o-poder-presidencial.ghtml)** O Globo, 08 oct 2022. 
-* **[O presidente antiliberal.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** O Globo, 24 sep 2022. 
+* **[O presidente antiliberal.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/o-presidente-antiliberal.ghtml)** O Globo, 24 sep 2022. 
 * **[Um otimista no bicentenário.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/09/um-otimista-no-bicentenario.ghtml)** O Globo, 10 sep 2022. 
 * **[O capital social.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-capital-social.ghtml)** O Globo, 27 ago 2022. 
 * **[O imposto maternidade.](https://oglobo.globo.com/economia/carlos-goes/coluna/2022/08/o-imposto-maternidade.ghtml)** O Globo, 18 ago  2022. 
